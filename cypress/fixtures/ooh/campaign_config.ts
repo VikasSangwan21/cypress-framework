@@ -1,0 +1,23 @@
+export const oohCampaignConfig = {
+  Objective: [
+    'Awareness',
+    'Brand Building',
+    'Brand Launch',
+    'Brand Loyalty',
+    'Brand Relaunch',
+  ],
+  Agency: ['BPN', 'Deutsch', 'FCB', 'Huge', 'J3', 'UM'],
+  Client: ['BMW', 'Sony', 'Fitbit', 'Accenture', 'Nationwide'],
+  mo: ['Lamar', 'Outfront', 'Clear Channel', 'JCDecaux'],
+  fileNamesUpload: [
+    'Sample-QA-PDF.pdf',
+    'Sample-QA-Excel.xlsx',
+    'Sample-QA-Word.docx',
+    'Sample-QA-CSV.csv',
+    'Sample-QA-txt.txt',
+    'Sample-QA-PowerPoint.pptx',
+  ],
+  loopCount: 3,
+  dupcampaignName: 'Test Campaign Name',
+  testDataPath: 'ooh/campaigns/testData/',
+};

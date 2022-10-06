@@ -1,0 +1,8 @@
+{
+    "importFileNamesUpload": [
+        "proposal_upload_template[Coca-Cola].xlsm",
+        "proposal_upload_template[Spotify].xlsm",
+        "proposal_upload_template[Default].xlsm"
+    ],
+    "testDataPath": "ooh/rfp/import/"
+}

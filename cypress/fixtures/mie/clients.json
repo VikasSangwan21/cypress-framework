@@ -1,0 +1,5799 @@
+{
+  "content": [
+    {
+      "uuid": "3a476892c2a24ae0bab7512c242fc093",
+      "version": 6,
+      "id": 53940,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-11-21T02:25:43.000Z",
+      "lastModifiedBy": "denis.klopyshko",
+      "lastModifiedDate": "2019-12-11T13:23:49.000Z",
+      "name": "Acceptance client",
+      "markets": [
+        {
+          "name": "Australia",
+          "isoCode": "AU",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "API",
+          "isoCode": "PN",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 32315,
+          "sfAccountId": "db0378307cb6449c85198cda6f6bc08f",
+          "advertiserId": "34A996F7D3A34DC",
+          "name": "Spr 92 test edited",
+          "agencyName": "Cadreon",
+          "agencyNames": [
+            "Cadreon"
+          ],
+          "agency": {
+            "id": 21618,
+            "sfAccountId": "b3f1c82e82d411e9b4ed0e7402b89b22",
+            "name": "Cadreon"
+          },
+          "agencies": [
+            {
+              "id": 21618,
+              "sfAccountId": "b3f1c82e82d411e9b4ed0e7402b89b22",
+              "name": "Cadreon"
+            }
+          ],
+          "industries": [
+            "Auto"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "currencyCode": "CAD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 34219,
+          "sfAccountId": "5aee0fb5edd54d90979635e21ab0e4e8",
+          "advertiserId": "1669F348B4AB44C",
+          "name": "test advertiser 99",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "currencyCode": "AFN",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103351,
+          "sfAccountId": "78d74a316c574e12b7da07a6f87c2fc5",
+          "advertiserId": "B811478444E7484",
+          "name": "ZZ_test advertiser",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Auto",
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "US",
+          "classification": "Tier 1",
+          "opportunitiesCount": 0,
+          "currencyCode": "SHP",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103644,
+          "sfAccountId": "89639885bbd54db5bbe0b26a36fb1c22",
+          "advertiserId": "2B2AC4187D87481",
+          "name": "((AUTOMATION)) Client 01 (djimenezo) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103799,
+          "sfAccountId": "cb024188001e42aeb54debc26c861b41",
+          "advertiserId": "CF14F0B9B7944B4",
+          "name": "CORE_SHELL_REGRESSION_AdvertisersListByIds1",
+          "agencyNames": [
+            "test"
+          ],
+          "agencies": [
+            {
+              "id": 20373,
+              "sfAccountId": "2a10acc2c2d64468ab33691393b7afb4",
+              "name": "test",
+              "market": "AP"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103800,
+          "sfAccountId": "1d488b1123c3451086d2d617442ae3d9",
+          "advertiserId": "47BD07A062DB4BE",
+          "name": "CORE_SHELL_REGRESSION_AdvertisersListByIds2",
+          "agencyNames": [
+            "test"
+          ],
+          "agencies": [
+            {
+              "id": 20373,
+              "sfAccountId": "2a10acc2c2d64468ab33691393b7afb4",
+              "name": "test",
+              "market": "AP"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103801,
+          "sfAccountId": "7092a23c27f640caa014311f542080af",
+          "advertiserId": "77AFE468290E413",
+          "name": "CORE_SHELL_REGRESSION_AdvertisersListByIds3",
+          "agencyNames": [
+            "test"
+          ],
+          "agencies": [
+            {
+              "id": 20373,
+              "sfAccountId": "2a10acc2c2d64468ab33691393b7afb4",
+              "name": "test",
+              "market": "AP"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104448,
+          "sfAccountId": "aa9b7c56335445a7a1410f7f623367c7",
+          "advertiserId": "22993E730E3F43D",
+          "name": "Test AdvertiserDK",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "classification": "Tier 1",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104449,
+          "sfAccountId": "40bf4ec9eb5e4f69b206447dddab08b3",
+          "advertiserId": "83135EA6D02140D",
+          "name": "TESTDKK",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "classification": "Tier 1",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104590,
+          "sfAccountId": "50c8b7b531c146b9a928254fa0e85a86",
+          "advertiserId": "42C02727AD39486",
+          "name": "DUPLICATED",
+          "agencyNames": [
+            "Huge",
+            "UM",
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 247,
+              "sfAccountId": "001A000001GInOzIAL",
+              "name": "Huge",
+              "market": "US"
+            },
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            },
+            {
+              "id": 39,
+              "sfAccountId": "001A0000009gkbWIAQ",
+              "name": "UM",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104591,
+          "sfAccountId": "990c31fa9b074a75836c289c6306c5a2",
+          "advertiserId": "BC3A5E68216A4C3",
+          "name": "qwerqwerqw",
+          "agencyNames": [
+            "AdLab",
+            "Ansible",
+            "BPN"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            },
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            },
+            {
+              "id": 331,
+              "sfAccountId": "001A000001MfzSEIAZ",
+              "name": "BPN",
+              "market": "MX"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104599,
+          "sfAccountId": "da3399fdca5b40f5baf24a76f5b064e3",
+          "advertiserId": "8B6544036A164D7",
+          "name": "TestAdvertiser_DUPLICATES",
+          "agencyNames": [
+            "Momentum",
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 328,
+              "sfAccountId": "001A000001MeaeVIAR",
+              "name": "Momentum",
+              "market": "JP"
+            },
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105131,
+          "sfAccountId": "dfe58a40484a405dbbbfe91d0f9fe45b",
+          "advertiserId": "8271F6B3C86C478",
+          "name": "testttttt",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 106388,
+          "sfAccountId": "3c66f4ed981442d5a92d87aafc7a34c8",
+          "advertiserId": "76E1D687ECE4400",
+          "name": "Advertiser_REDIS",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 107740,
+          "sfAccountId": "7a11ab4d830046e0b41afe67a6b98623",
+          "advertiserId": "424FBBFC73444AE",
+          "name": "test_client_for_markets_fixed_1 AU",
+          "agencyName": "Campbell Ewald",
+          "agencyNames": [
+            "Campbell Ewald",
+            "Hill Holliday"
+          ],
+          "agency": {
+            "id": 56,
+            "sfAccountId": "001A000000C17afIAB",
+            "name": "Campbell Ewald",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 58,
+              "sfAccountId": "001A000000F9n44IAB",
+              "name": "Hill Holliday",
+              "market": "US"
+            },
+            {
+              "id": 56,
+              "sfAccountId": "001A000000C17afIAB",
+              "name": "Campbell Ewald",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Biotechnology",
+            "Apparel"
+          ],
+          "market": "AU",
+          "opportunitiesCount": 0,
+          "currencyCode": "ARS",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104487,
+          "sfAccountId": "90ddad802bec4fe9b48c558a9a83199f",
+          "advertiserId": "C87FE978CB47442",
+          "name": "Global_Brand_test US",
+          "parentAccount": {
+            "id": 32315,
+            "name": "Spr 92 test edited"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 104488,
+          "sfAccountId": "2e318087fede48fcb1da78f582084072",
+          "advertiserId": "BDCC714F617C440",
+          "name": "Duplicate_Brand_for market",
+          "parentAccount": {
+            "id": 32315,
+            "name": "Spr 92 test edited"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 105427,
+          "sfAccountId": "db1d9b756ae9419e8b24ac8e127b42b7",
+          "advertiserId": "8F7687A08C254D6",
+          "name": "TESTREGRESSION PN",
+          "parentAccount": {
+            "id": 34219,
+            "name": "test advertiser 99"
+          },
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 105428,
+          "sfAccountId": "818ce1e6bd5445f9a24f1ba4177e77d9",
+          "advertiserId": "077A7A97085449C",
+          "name": "TESTREGRESSION US",
+          "parentAccount": {
+            "id": 32315,
+            "name": "Spr 92 test edited"
+          },
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 106349,
+          "sfAccountId": "dee2cab466684340b6b4b71bdd94cc4d",
+          "advertiserId": "5FD3F8F8EFC44ED",
+          "name": "apuibrand-uco123_updated PN",
+          "parentAccount": {
+            "id": 33222,
+            "name": "other"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 106350,
+          "sfAccountId": "4f7f7cfa53754a77afc5c1af0b9cbf9b",
+          "advertiserId": "8A08F38692C6492",
+          "name": "apuibrand-uco123_updated US",
+          "parentAccount": {
+            "id": 33222,
+            "name": "other"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 106395,
+          "sfAccountId": "f6f202221a3d4fefa5bd807453a17b52",
+          "advertiserId": "398872046FB14BD",
+          "name": "TESTGBREDIS PN",
+          "parentAccount": {
+            "id": 34219,
+            "name": "test advertiser 99"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 39,
+          "name": "UM"
+        },
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "94eafef78fec413eb61efe2e1454d290",
+      "version": 945,
+      "id": 51840,
+      "createdBy": "lazarova",
+      "createdDate": "2019-05-13T19:21:24.000Z",
+      "lastModifiedBy": "oleksii.volkov",
+      "lastModifiedDate": "2019-08-23T10:09:18.000Z",
+      "name": "(AAA) Abacus Accounting",
+      "markets": [
+        {
+          "name": "PQNdmOegesR",
+          "isoCode": "AC",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        },
+        {
+          "name": "Austria",
+          "isoCode": "AT",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Mexico",
+          "isoCode": "MX",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "APR1",
+          "isoCode": "AP",
+          "region": {
+            "id": "MENA",
+            "name": "Middle East"
+          }
+        },
+        {
+          "name": "Argentina",
+          "isoCode": "AR",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "API",
+          "isoCode": "PN",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        },
+        {
+          "name": "ArkVkVg",
+          "isoCode": "WB",
+          "region": {
+            "id": "APAC",
+            "name": "Asia Pacific"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 34168,
+          "sfAccountId": "ff602213d08c49a58571acb1397a28f3",
+          "advertiserId": "00D6AABCC4FD48F",
+          "name": "UIO_test",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AP",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 59290,
+          "sfAccountId": "bc146fd85e9241808d6a236bc63fcacc",
+          "advertiserId": "612802D825154F6",
+          "name": "skjjfbkjasnflja",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Auto"
+          ],
+          "market": "AP",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 59291,
+          "sfAccountId": "22e4bd384bb54a3aad5496195f0d04be",
+          "advertiserId": "52260D726885434",
+          "name": "TEstADvertiserNAme",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Auto"
+          ],
+          "market": "AP",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 89287,
+          "sfAccountId": "68f5944e8a524e81810c4d8ddd898112",
+          "advertiserId": "959D2757BF2A428",
+          "name": "testtestetstcliaenc",
+          "agencyName": "Ansible",
+          "agencyNames": [
+            "Ansible"
+          ],
+          "agency": {
+            "id": 21616,
+            "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+            "name": "Ansible"
+          },
+          "agencies": [
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AC",
+          "opportunitiesCount": 0,
+          "currencyCode": "HKD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 97832,
+          "sfAccountId": "3be3d682a85640b6a03bdba93e591609",
+          "advertiserId": "77D376D5951E4D8",
+          "name": "a1",
+          "agencyName": "Ansible",
+          "agencyNames": [
+            "Ansible"
+          ],
+          "agency": {
+            "id": 21616,
+            "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+            "name": "Ansible"
+          },
+          "agencies": [
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98218,
+          "sfAccountId": "42ee86f1bf2f4225ba4a67b0c9445808",
+          "advertiserId": "22B43704EEA84BE",
+          "name": "test test test123",
+          "agencyName": "Ansible",
+          "agencyNames": [
+            "Ansible"
+          ],
+          "agency": {
+            "id": 21616,
+            "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+            "name": "Ansible"
+          },
+          "agencies": [
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98555,
+          "sfAccountId": "2c0248dbcda04bb789bd7d10a5e9365a",
+          "advertiserId": "332DCAFCD200423",
+          "name": "TestADV-UCO5790",
+          "agencyName": "UM",
+          "agencyNames": [
+            "UM"
+          ],
+          "agency": {
+            "id": 39,
+            "sfAccountId": "001A0000009gkbWIAQ",
+            "name": "UM",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 39,
+              "sfAccountId": "001A0000009gkbWIAQ",
+              "name": "UM",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "classification": "Tier 1",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98606,
+          "sfAccountId": "37c1a6f5bcec40698900cd18e5d112d8",
+          "advertiserId": "17BDBD0C39B0480",
+          "name": "TEST Advertiser MX",
+          "agencyName": "Ansible",
+          "agencyNames": [
+            "Ansible"
+          ],
+          "agency": {
+            "id": 21616,
+            "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+            "name": "Ansible"
+          },
+          "agencies": [
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "MX",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98609,
+          "sfAccountId": "df810d30fd2346d68588b8c97180387a",
+          "advertiserId": "62274E08AF02485",
+          "name": "test_duplicate",
+          "agencyName": "AdLab",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agency": {
+            "id": 21615,
+            "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+            "name": "AdLab"
+          },
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98613,
+          "sfAccountId": "cb718c8e639b4bf58af570b5c4190353",
+          "advertiserId": "297252848A6B4DC",
+          "name": "Farmacias del Ahorro",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98614,
+          "sfAccountId": "0f671ac22efe4b2e9815cfa31185b542",
+          "advertiserId": "63F41AA2AA8647A",
+          "name": "Farmacias del Ahorro Test",
+          "agencyName": "AdLab",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agency": {
+            "id": 21615,
+            "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+            "name": "AdLab"
+          },
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "MX",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98700,
+          "sfAccountId": "9125b2fc82ae4b47bfd4e88724c795cd",
+          "advertiserId": "7B5DE36A3C4F4B6",
+          "name": "spr111_manual - PN-2",
+          "agencyName": "AdLab",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agency": {
+            "id": 21615,
+            "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+            "name": "AdLab"
+          },
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 99247,
+          "sfAccountId": "4b6a8f359d1848eb83b21f4a36b0096e",
+          "advertiserId": "19A046194FB34D6",
+          "name": "zz1",
+          "agencyName": "AdLab",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agency": {
+            "id": 21615,
+            "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+            "name": "AdLab"
+          },
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 100267,
+          "sfAccountId": "5aa2f1b458244598b52e1ba6169dae6d",
+          "advertiserId": "5D3FD3EF37834C8",
+          "name": "DD2 Client AA12",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Food & Beverage"
+          ],
+          "market": "AP",
+          "opportunitiesCount": 0,
+          "currencyCode": "SHP",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 102473,
+          "sfAccountId": "5a53efd6dae64c65bc49e2f43850d30c",
+          "advertiserId": "3591EA00B5674B6",
+          "name": "TEst advertiser to check agency ID",
+          "agencyNames": [
+            "Ansible"
+          ],
+          "agencies": [
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            }
+          ],
+          "industries": [
+            "Auto"
+          ],
+          "market": "WB",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 102744,
+          "sfAccountId": "c4f6f173b4d64c81a3c7e3338dd9085b",
+          "advertiserId": "C02F88F3CD364F2",
+          "name": "Advertiser to test region",
+          "agencyNames": [
+            "BPN"
+          ],
+          "agencies": [
+            {
+              "id": 331,
+              "sfAccountId": "001A000001MfzSEIAZ",
+              "name": "BPN",
+              "market": "MX"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103258,
+          "sfAccountId": "7d8462f61f974080bcd26206f642aa12",
+          "advertiserId": "5213CC20CA144B2",
+          "name": "AR Advertizer",
+          "agencyNames": [
+            "Orion",
+            "Other",
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            },
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            },
+            {
+              "id": 21636,
+              "sfAccountId": "b4003d9382d411e9b4ed0e7402b89b22",
+              "name": "Orion"
+            }
+          ],
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "AR",
+          "classification": "Tier 1",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103297,
+          "sfAccountId": "4706f5ac05ee4b13990401265fc4170f",
+          "advertiserId": "CE4FC710973D4AD",
+          "name": "Dcl Adv",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103300,
+          "sfAccountId": "dfdaf9ad46824a8f945af72d77ab6d1e",
+          "advertiserId": "A9DB65ADEA0A41A",
+          "name": "test_adv_de",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103301,
+          "sfAccountId": "b1a1c4317af742aa9b6301cf99fe64fb",
+          "advertiserId": "A7F1FACBF37B4A3",
+          "name": "ororitrtitritit",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104165,
+          "sfAccountId": "51705e445a61414e89fb68391c32641b",
+          "advertiserId": "0BB8DA34CCF94E4",
+          "name": "Core_regression_advertiser",
+          "agencyName": "AdLab",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agency": {
+            "id": 21615,
+            "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+            "name": "AdLab"
+          },
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105434,
+          "sfAccountId": "76868396d8db41d6a2bbc6592c59242f",
+          "advertiserId": "06C23F20EF094E7",
+          "name": "test advertiser123",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Auto"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "currencyCode": "CAD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 107828,
+          "sfAccountId": "608614226f1e487794b408f4c0cbc84d",
+          "advertiserId": "98B86FC0B13C454",
+          "name": "123123",
+          "agencyName": "Cadreon",
+          "agencyNames": [
+            "Cadreon"
+          ],
+          "agency": {
+            "id": 21618,
+            "sfAccountId": "b3f1c82e82d411e9b4ed0e7402b89b22",
+            "name": "Cadreon"
+          },
+          "agencies": [
+            {
+              "id": 21618,
+              "sfAccountId": "b3f1c82e82d411e9b4ed0e7402b89b22",
+              "name": "Cadreon"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "classification": "Tier 2",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104510,
+          "sfAccountId": "852f2704c25146788d6cbcf592d1f3ea",
+          "advertiserId": "76C52F46D513454",
+          "name": "Test GB for release 2 AR",
+          "parentAccount": {
+            "id": 98696,
+            "name": "Amtrak AR"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AR",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 104668,
+          "sfAccountId": "9709456ab74341b8a1d61bc52c552310",
+          "advertiserId": "E49D55F016564E0",
+          "name": "GLOBAL_BRAND_DK_TEST PN",
+          "parentAccount": {
+            "id": 34219,
+            "name": "test advertiser 99"
+          },
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 104669,
+          "sfAccountId": "1a5b755112544773a87baaab9903cefb",
+          "advertiserId": "FFACA703CD2D4BD",
+          "name": "GLOBAL_BRAND_DK_TEST US",
+          "parentAccount": {
+            "id": 32315,
+            "name": "Spr 92 test edited"
+          },
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 105429,
+          "sfAccountId": "5c01302f0fb94980b4203b86aa40b265",
+          "advertiserId": "83B30591CD4F488",
+          "name": "GLOBAL_BRAND_DK_TEST AT",
+          "parentAccount": {
+            "id": 33222,
+            "name": "other"
+          },
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "AT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 106336,
+          "sfAccountId": "10def267953a4c808d9a92e58ce29292",
+          "advertiserId": "C814E7908A704F8",
+          "name": "CS_REGRESSION_UCO123 PN",
+          "parentAccount": {
+            "id": 34219,
+            "name": "test advertiser 99"
+          },
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 106337,
+          "sfAccountId": "05c171f73a0b47b38541fabc64c6daa4",
+          "advertiserId": "B158216812C4413",
+          "name": "CS_REGRESSION_UCO123 US",
+          "parentAccount": {
+            "id": 32315,
+            "name": "Spr 92 test edited"
+          },
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 106338,
+          "sfAccountId": "bf3b4fe9425045c4b96e67896b86fecc",
+          "advertiserId": "2F63809DA34B46A",
+          "name": "CS_REGRESSION_UCO123_updated AT",
+          "parentAccount": {
+            "id": 33222,
+            "name": "other"
+          },
+          "industries": [
+            "Auto",
+            "Apparel",
+            "Banking",
+            "Agriculture"
+          ],
+          "market": "AT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 108058,
+          "sfAccountId": "403328a886484a9d876c468da0a70c3c",
+          "advertiserId": "DD17D22E0426431",
+          "name": "New Global Brand AT",
+          "parentAccount": {
+            "id": 102744,
+            "name": "Advertiser to test region"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 108095,
+          "sfAccountId": "ac4636769179456db3d2120221868f0a",
+          "advertiserId": "D20E9B56B270435",
+          "name": "(AAA) GlobalBrand AT",
+          "parentAccount": {
+            "id": 102744,
+            "name": "Advertiser to test region"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 108216,
+          "sfAccountId": "b7877c663f6147ca8df47f02d55f740f",
+          "advertiserId": "7323582FB647454",
+          "name": "GlobalBrandNameName AT",
+          "parentAccount": {
+            "id": 102744,
+            "name": "Advertiser to test region"
+          },
+          "industries": [
+            "Other"
+          ],
+          "market": "AT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Banking"
+      ],
+      "agencies": [
+        {
+          "id": 20443,
+          "name": "Other"
+        },
+        {
+          "id": 39,
+          "name": "UM"
+        },
+        {
+          "id": 55,
+          "name": "R/GA"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "e395a6ee458344f79bb97716d139a349",
+      "version": 7,
+      "id": 51839,
+      "createdBy": "lazarova",
+      "createdDate": "2019-05-13T19:04:39.000Z",
+      "lastModifiedBy": "roman.atamanchuck",
+      "lastModifiedDate": "2019-10-31T16:18:10.000Z",
+      "name": "(AT) Creatives Client One",
+      "markets": [
+        {
+          "name": "Ukraine",
+          "isoCode": "UA",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "APR1",
+          "isoCode": "AP",
+          "region": {
+            "id": "MENA",
+            "name": "Middle East"
+          }
+        },
+        {
+          "name": "API",
+          "isoCode": "PN",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 6642,
+          "sfAccountId": "0010j000009jV9MAAU",
+          "advertiserId": "AA-2017-8-10274",
+          "name": "(AT) Creatives Advertiser One",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Engineering"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 59289,
+          "sfAccountId": "b2bb3cfb95a944f883db9745daaeb8fa",
+          "advertiserId": "E35713E103774E6",
+          "name": "TEST advertiser 1112",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Auto",
+            "Biotechnology",
+            "Chemicals"
+          ],
+          "market": "AP",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 99012,
+          "sfAccountId": "a4eae16a13204f8a99ea0199c91ce208",
+          "advertiserId": "006B645054B74CB",
+          "name": "qq1",
+          "agencyNames": [
+            "AdLab",
+            "BPN"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            },
+            {
+              "id": 331,
+              "sfAccountId": "001A000001MfzSEIAZ",
+              "name": "BPN",
+              "market": "MX"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 99307,
+          "sfAccountId": "f7d1d458ebb447fba3e4ee9d7a376033",
+          "advertiserId": "A6E2777C2486477",
+          "name": "zz2",
+          "agencyNames": [
+            "Ansible",
+            "BPN"
+          ],
+          "agencies": [
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            },
+            {
+              "id": 331,
+              "sfAccountId": "001A000001MfzSEIAZ",
+              "name": "BPN",
+              "market": "MX"
+            }
+          ],
+          "industries": [
+            "Apparel",
+            "Banking"
+          ],
+          "market": "AP",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 100013,
+          "sfAccountId": "1f5c261681b745deb7710a644a350881",
+          "advertiserId": "C001BF6031EE454",
+          "name": "testUioAdvertiser20191108150337310 8139",
+          "agencyName": "AdLab",
+          "agencyNames": [
+            "AdLab"
+          ],
+          "agency": {
+            "id": 21615,
+            "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+            "name": "AdLab"
+          },
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "UA",
+          "classification": "Tier 1",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103064,
+          "sfAccountId": "6ed3b855bcf4458797230040411e9d4f",
+          "advertiserId": "714D318CC27C4B8",
+          "name": "Test kinesso advetiser",
+          "agencyNames": [
+            "Kinesso"
+          ],
+          "agencies": [
+            {
+              "id": 21654,
+              "sfAccountId": "05feaf54fea34644a63c780755011f18",
+              "name": "Kinesso"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Commission",
+        "Activity Based"
+      ],
+      "industries": [
+        "Engineering"
+      ],
+      "agencies": [
+        {
+          "id": 20443,
+          "name": "Other"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "1e06da37def548a598a6f7b230e0c7e9",
+      "version": 1207,
+      "id": 54081,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-31T17:14:26.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-03-27T13:58:00.000Z",
+      "name": "(AUTOMATION) API Client 01 (djimenezo)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105320,
+          "sfAccountId": "35d43ba3e77e4e83bf6c3554d26235b1",
+          "advertiserId": "B4CF41818CF94E1",
+          "name": "(AUTOMATION) API Client 01 (djimenezo) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105321,
+          "sfAccountId": "627ab477ab4f4339becaf30a214d9daa",
+          "advertiserId": "A8FBC4177A2D412",
+          "name": "(AUTOMATION) API Global Brand 01 (djimenezo) US1",
+          "parentAccount": {
+            "id": 105320,
+            "name": "(AUTOMATION) API Client 01 (djimenezo) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "3c557905502c435598a20d7c3f330fbb",
+      "version": 538,
+      "id": 54106,
+      "createdBy": "pp.user_01",
+      "createdDate": "2020-01-07T19:28:09.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-03-16T15:07:04.000Z",
+      "name": "(AUTOMATION) API Client 01 (jquinterot)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105536,
+          "sfAccountId": "e66d67e36e4e4db7908e2aa2a406bdb8",
+          "advertiserId": "A5C826B1DCCB40E",
+          "name": "(AUTOMATION) API Client 01 (jquinterot) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105537,
+          "sfAccountId": "6a1da8c95c7841728fe474009ce3cc69",
+          "advertiserId": "E9A170FB83C24C9",
+          "name": "(AUTOMATION) API Global Brand 01 (jquinterot) US",
+          "parentAccount": {
+            "id": 105536,
+            "name": "(AUTOMATION) API Client 01 (jquinterot) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "88c02b31bd8649a1ad08d6d944fd4a76",
+      "version": 2678,
+      "id": 54083,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-31T20:52:23.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-04-06T16:00:24.000Z",
+      "name": "(AUTOMATION) API Client 01 (jslave)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105323,
+          "sfAccountId": "00b9257e9f424e269e6ca5a0924c81d2",
+          "advertiserId": "EF8AAF950C65490",
+          "name": "(AUTOMATION) API Client 01 (jslave) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105325,
+          "sfAccountId": "105ec53394204b9288475a32972ccdbf",
+          "advertiserId": "918D8A859765422",
+          "name": "(AUTOMATION) API Global Brand 01 (jslave) US",
+          "parentAccount": {
+            "id": 105323,
+            "name": "(AUTOMATION) API Client 01 (jslave) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "0e1d8da314384461b5018e1c31fc11ba",
+      "version": 34,
+      "id": 54082,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-31T17:19:55.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-02-12T18:06:14.000Z",
+      "name": "(AUTOMATION) API Client 02 (djimenezo)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105322,
+          "sfAccountId": "5fe0ddb231ef4bad81e13f372696653e",
+          "advertiserId": "87936D5B8C3B4C8",
+          "name": "(AUTOMATION) API Client 02 (djimenezo) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "00597e21216c4484bc74ef245d2061eb",
+      "version": 7,
+      "id": 54107,
+      "createdBy": "pp.user_01",
+      "createdDate": "2020-01-07T21:20:47.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-01-07T22:14:26.000Z",
+      "name": "(AUTOMATION) API Client 02 (jquinterot)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105538,
+          "sfAccountId": "603ba71cb5eb451da7d9484567cb705b",
+          "advertiserId": "19F65239C396499",
+          "name": "(AUTOMATION) API Client 02 (jquinterot) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "ab3a57eb0a194ace82ec0d6f66378475",
+      "version": 54,
+      "id": 54084,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-31T20:52:23.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-02-20T12:00:28.000Z",
+      "name": "(AUTOMATION) API Client 02 (jslave)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105324,
+          "sfAccountId": "871609ea401b46f2a3d16affbc67bacc",
+          "advertiserId": "1F0A487A81C1488",
+          "name": "(AUTOMATION) API Client 02 (jslave) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "e83679eac79946b18b7d8b054e22a44d",
+      "version": 184,
+      "id": 53643,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-10-30T18:53:50.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2019-12-30T16:17:17.000Z",
+      "name": "(AUTOMATION) Client 01 (djimenezo)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 102544,
+          "sfAccountId": "f9bbafea59d045f585381dd18025e7e4",
+          "advertiserId": "A1B73E82860D429",
+          "name": "(AUTOMATION) Client 01 (djimenezo) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 102545,
+          "sfAccountId": "2b74deaea2374f0987b8090969f83705",
+          "advertiserId": "632D0AF1537147A",
+          "name": "(AUTOMATION) Global Brand 01 (djimenezo) US",
+          "parentAccount": {
+            "id": 102544,
+            "name": "(AUTOMATION) Client 01 (djimenezo) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 102629,
+          "sfAccountId": "2b27e1f7b39840eea8651d49ca91d00a",
+          "advertiserId": "AE2BF459EDA0448",
+          "name": "Global Brand 01 US",
+          "parentAccount": {
+            "id": 102544,
+            "name": "(AUTOMATION) Client 01 (djimenezo) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 104606,
+          "sfAccountId": "4a342177e21545afb07add295e5e60be",
+          "advertiserId": "339D12D6E2634AA",
+          "name": "Brand A",
+          "parentAccount": {
+            "id": 8119,
+            "name": "McDonald's"
+          },
+          "industries": [
+            "Real Estate"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 103725,
+          "sfAccountId": "53976911ab4c462b83ad6f2e4ca16bf8",
+          "advertiserId": "EFB1CEADC04D461",
+          "name": "(AUTOMATION) Global Brand 02 (djimenezo) US",
+          "parentAccount": {
+            "id": 102544,
+            "name": "(AUTOMATION) Client 01 (djimenezo) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "b907464505a744d29eb613281c44f72e",
+      "version": 19,
+      "id": 53958,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-11-25T12:05:33.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2019-12-31T16:56:50.000Z",
+      "name": "(AUTOMATION) Client 01 (jslave)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 103789,
+          "sfAccountId": "bb59a13c4067429982631e04e3749b16",
+          "advertiserId": "88C06CCD11214DB",
+          "name": "(AUTOMATION) Client 01 (jslave) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "97614393feee4b51a38983be1e3f1249",
+      "version": 44,
+      "id": 54020,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-10T18:07:27.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2019-12-10T22:13:21.000Z",
+      "name": "(AUTOMATION) Client 01 (ROBOT)",
+      "markets": [
+        {
+          "name": "API",
+          "isoCode": "PN",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 104709,
+          "sfAccountId": "a2465ab705fd4fe6ad0d1430681da467",
+          "advertiserId": "2B40AA64F3CC4B4",
+          "name": "(AUTOMATION) Client 01 (ROBOT) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105128,
+          "sfAccountId": "9c1ef05230064dd09c4ec097144d6cf0",
+          "advertiserId": "C657655C75C74E3",
+          "name": "еншенш",
+          "agencyNames": [
+            "AdLab",
+            "Ansible"
+          ],
+          "agencies": [
+            {
+              "id": 21615,
+              "sfAccountId": "b3ef64fa82d411e9b4ed0e7402b89b22",
+              "name": "AdLab"
+            },
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "e0d6a520f47e4794b02089d61ae02d27",
+      "version": 10,
+      "id": 53951,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-11-22T23:01:48.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2019-11-28T18:53:18.000Z",
+      "name": "(AUTOMATION) Client 02 (djimenezo)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 103726,
+          "sfAccountId": "ae5ba1d940cb4ed89bf85470c3d3a07c",
+          "advertiserId": "D7BB5452DF6943B",
+          "name": "(AUTOMATION) Client 02 (djimenezo) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "6a3caad4635a456fb466da4a779537c7",
+      "version": 30,
+      "id": 53957,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-11-25T12:05:33.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2019-12-31T16:56:48.000Z",
+      "name": "(AUTOMATION) Client 02 (jslave)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 103788,
+          "sfAccountId": "0d1403e669c048a192c515e8674035f6",
+          "advertiserId": "97A6A6CD6A984A1",
+          "name": "(AUTOMATION) Client 02 (jslave) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 103790,
+          "sfAccountId": "e961469c049e4174a94b50d621fc70e1",
+          "advertiserId": "C22C508484AF402",
+          "name": "(AUTOMATION) Global Brand 01 (jslave) US",
+          "parentAccount": {
+            "id": 103789,
+            "name": "(AUTOMATION) Client 01 (jslave) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "7ecb27a7c0dd4a048cea04feaa1fac94",
+      "version": 7,
+      "id": 54021,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-10T18:51:39.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2019-12-10T19:11:32.000Z",
+      "name": "(AUTOMATION) Client 02 (ROBOT)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 104711,
+          "sfAccountId": "62e7809248194381993760b1b961c4bf",
+          "advertiserId": "CC8D65C8C59E465",
+          "name": "(AUTOMATION) Client 02 (ROBOT) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "c5534835b75d4bef8ba29085667a7a32",
+      "version": 2,
+      "id": 53977,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-11-28T20:47:18.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2019-11-29T13:40:33.000Z",
+      "name": "(AUTOMATION) Johany Client (djimenezo)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 104212,
+          "sfAccountId": "3719b1d4930f4cecb998a13fd80738e6",
+          "advertiserId": "B43351313C6643B",
+          "name": "(AUTOMATION) Johany Client (djimenezo) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 104213,
+          "sfAccountId": "fc5bbfcdc1684f1391a1fc0e20d39be6",
+          "advertiserId": "78A4224C33A14B3",
+          "name": "(AUTOMATION) Johany Global Brand (djimenezo) US",
+          "parentAccount": {
+            "id": 104212,
+            "name": "(AUTOMATION) Johany Client (djimenezo) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 104710,
+          "sfAccountId": "7aa5552c70db4dc2aa4703c14c6176b9",
+          "advertiserId": "DE18B9FE3540435",
+          "name": "(AUTOMATION) Global Brand 01 (ROBOT) US",
+          "parentAccount": {
+            "id": 104709,
+            "name": "(AUTOMATION) Client 01 (ROBOT) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "607108665b2248c09a453e39cfd8a6ac",
+      "version": 176,
+      "id": 54079,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-31T15:24:16.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-03-18T18:05:02.000Z",
+      "name": "(AUTOMATION) UI Client 01 (djimenezo)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105316,
+          "sfAccountId": "1d39b6a47bc540cab4c94dad8357241e",
+          "advertiserId": "BEC26492B2804CE",
+          "name": "(AUTOMATION) UI Client 01 (djimenezo) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105317,
+          "sfAccountId": "b000c783d21b432d89f2d110007b5eab",
+          "advertiserId": "8AFB39AA81394B5",
+          "name": "(AUTOMATION) UI Global Brand 01 (djimenezo) US",
+          "parentAccount": {
+            "id": 105316,
+            "name": "(AUTOMATION) UI Client 01 (djimenezo) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "ea8261e6e545491b8d9cd5733b430829",
+      "version": 32,
+      "id": 54256,
+      "createdBy": "pp.user_01",
+      "createdDate": "2020-02-06T21:31:37.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-03-20T18:35:00.000Z",
+      "name": "(AUTOMATION) UI Client 01 (jquinterot)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 106563,
+          "sfAccountId": "8345a1b61b1f47c2a12473826331132a",
+          "advertiserId": "6D836E79D5BF4CD",
+          "name": "(AUTOMATION) UI Client 01 (jquinterot) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 106564,
+          "sfAccountId": "79bc11eb5c364500bde8e475349a5fac",
+          "advertiserId": "E2FBF3AF613D4F2",
+          "name": "(AUTOMATION) UI Global Brand 01 (jquinterot) US",
+          "parentAccount": {
+            "id": 106563,
+            "name": "(AUTOMATION) UI Client 01 (jquinterot) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "4bc38b120a514e2fb02ebbe76679bf30",
+      "version": 921,
+      "id": 54080,
+      "createdBy": "pp.user_01",
+      "createdDate": "2019-12-31T17:04:41.000Z",
+      "lastModifiedBy": "pp.user_01",
+      "lastModifiedDate": "2020-04-06T15:29:32.000Z",
+      "name": "(AUTOMATION) UI Client 01 (jslave)",
+      "markets": [
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 105318,
+          "sfAccountId": "881cd7dc54c5454492a0802b93a499ad",
+          "advertiserId": "C409D9B6CC3D4A4",
+          "name": "(AUTOMATION) UI Client 01 (jslave) US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 105319,
+          "sfAccountId": "79711d8b72d847febcc9a1039f4d0246",
+          "advertiserId": "1E2F846B6A314B1",
+          "name": "(AUTOMATION) UI Global Brand 01 (jslave) US",
+          "parentAccount": {
+            "id": 105318,
+            "name": "(AUTOMATION) UI Client 01 (jslave) US"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based"
+      ],
+      "industries": [
+        "Apparel"
+      ],
+      "classification": "None",
+      "businessModel": "None",
+      "agencies": [
+        {
+          "id": 21629,
+          "name": "Initiative"
+        }
+      ],
+      "type": "Client"
+    },
+    {
+      "uuid": "ad54a4a4b0f149e2bddec05c3fbf371e",
+      "version": 39,
+      "id": 50147,
+      "createdBy": "vmelnik",
+      "createdDate": "2018-09-06T13:46:34.000Z",
+      "lastModifiedBy": "lisa.gribova",
+      "lastModifiedDate": "2020-03-27T14:22:50.000Z",
+      "name": "0 test client123qweqw",
+      "markets": [
+        {
+          "name": "United Arab Emirates",
+          "isoCode": "AE",
+          "region": {
+            "id": "MENA",
+            "name": "Middle East"
+          }
+        },
+        {
+          "name": "Brazil",
+          "isoCode": "BR",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "Finland",
+          "isoCode": "FI",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "bHzhKeN",
+          "isoCode": "XT",
+          "region": {
+            "id": "APAC",
+            "name": "Asia Pacific"
+          }
+        },
+        {
+          "name": "Germany",
+          "isoCode": "DE",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "ZAlex Kovalenko Market",
+          "isoCode": "AK",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "Argentina",
+          "isoCode": "AR",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "Malaysia",
+          "isoCode": "MY",
+          "region": {
+            "id": "APAC",
+            "name": "Asia Pacific"
+          }
+        },
+        {
+          "name": "India",
+          "isoCode": "IN",
+          "region": {
+            "id": "APAC",
+            "name": "Asia Pacific"
+          }
+        },
+        {
+          "name": "xzcxzccasdasw",
+          "isoCode": "AI",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Canada",
+          "isoCode": "CA",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        },
+        {
+          "name": "United Kingdom",
+          "isoCode": "UK",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "South Africa",
+          "isoCode": "ZA",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "China",
+          "isoCode": "CN",
+          "region": {
+            "id": "APAC",
+            "name": "Asia Pacific"
+          }
+        },
+        {
+          "name": "APR1",
+          "isoCode": "AP",
+          "region": {
+            "id": "MENA",
+            "name": "Middle East"
+          }
+        },
+        {
+          "name": "API",
+          "isoCode": "PN",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "PQNdmOegesR",
+          "isoCode": "AC",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        },
+        {
+          "name": "Japan",
+          "isoCode": "JP",
+          "region": {
+            "id": "APAC",
+            "name": "Asia Pacific"
+          }
+        },
+        {
+          "name": "[Automation] Market",
+          "isoCode": "JR",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "Poland",
+          "isoCode": "PL",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Colombia",
+          "isoCode": "CO",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "Chile",
+          "isoCode": "CL",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "Australia",
+          "isoCode": "AU",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "API Test",
+          "isoCode": "ZZ",
+          "region": {
+            "id": "AFRICA",
+            "name": "Africa"
+          }
+        },
+        {
+          "name": "France",
+          "isoCode": "FR",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Hungary",
+          "isoCode": "HU",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Belgium",
+          "isoCode": "BE",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Denmark",
+          "isoCode": "DK",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Netherlands",
+          "isoCode": "NL",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Italy",
+          "isoCode": "IT",
+          "region": {
+            "id": "EMEA",
+            "name": "Europe"
+          }
+        },
+        {
+          "name": "Mexico",
+          "isoCode": "MX",
+          "region": {
+            "id": "LATAM",
+            "name": "Latin America"
+          }
+        },
+        {
+          "name": "Hong Kong",
+          "isoCode": "HK",
+          "region": {
+            "id": "APAC",
+            "name": "Asia Pacific"
+          }
+        },
+        {
+          "name": "United States",
+          "isoCode": "US",
+          "region": {
+            "id": "NA",
+            "name": "North America"
+          }
+        }
+      ],
+      "advertisers": [
+        {
+          "id": 2996,
+          "sfAccountId": "001A000001FIUhmIAH",
+          "advertiserId": "AA-2015-5-03665",
+          "name": "Americana Co. 66666123",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Hospitality",
+            "Healthcare",
+            "Agriculture"
+          ],
+          "market": "AE",
+          "classification": "Tier 2",
+          "opportunitiesCount": 0,
+          "currencyCode": "GBP",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 3006,
+          "sfAccountId": "001A000001FIUj4IAH",
+          "advertiserId": "AA-2015-5-03675",
+          "name": "Etihad Etisalat Co. (Mobily)",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 3077,
+          "sfAccountId": "001A000001FJltbIAD",
+          "advertiserId": "AA-2015-6-03756",
+          "name": "Institute of Management Accoants, Inc.",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 3675,
+          "sfAccountId": "001A000001IblbbIAB",
+          "advertiserId": "AA-2016-1-04563",
+          "name": "Britannia",
+          "agencyName": "UM",
+          "agencyNames": [
+            "UM"
+          ],
+          "agency": {
+            "id": 39,
+            "sfAccountId": "001A0000009gkbWIAQ",
+            "name": "UM",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 39,
+              "sfAccountId": "001A0000009gkbWIAQ",
+              "name": "UM",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 6359,
+          "sfAccountId": "0010j000008znffAAA",
+          "advertiserId": "AA-2017-7-09844",
+          "name": "Test RocketFuel Advertiser US",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "ARS",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 6463,
+          "sfAccountId": "0010j000009PGy3AAG",
+          "advertiserId": "AA-2017-7-10011",
+          "name": "1212",
+          "agencyName": "UM",
+          "agencyNames": [
+            "UM"
+          ],
+          "agency": {
+            "id": 39,
+            "sfAccountId": "001A0000009gkbWIAQ",
+            "name": "UM",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 39,
+              "sfAccountId": "001A0000009gkbWIAQ",
+              "name": "UM",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "AUD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 6531,
+          "sfAccountId": "0010j000009iNxGAAU",
+          "advertiserId": "AA-2017-7-10115",
+          "name": "qwertyu",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Auto",
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "AED",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 6759,
+          "sfAccountId": "0010j000009v6tdAAA",
+          "advertiserId": "AA-2017-8-10423",
+          "name": "testtestetstcliaenc1",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "BRL",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 7091,
+          "sfAccountId": "0010j00000BShOYAA1",
+          "advertiserId": "AA-2017-9-10771",
+          "name": "Adv",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AE",
+          "classification": "Tier 1",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31100,
+          "sfAccountId": "4d96f4ca9c984ee78f9260064549dd54",
+          "advertiserId": "E98415C4-8C17-1",
+          "name": "test_reload_12",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "currencyCode": "AED",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31352,
+          "sfAccountId": "8d383591780d41e996fe5ede585bace9",
+          "advertiserId": "56EE2C07231447F",
+          "name": "0 test client AI",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "AI",
+          "opportunitiesCount": 0,
+          "currencyCode": "AFN",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31353,
+          "sfAccountId": "a094dcc536534293bf000214ecd13c81",
+          "advertiserId": "F5B71EA84E994BD",
+          "name": "0 test client AU",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "AU",
+          "opportunitiesCount": 0,
+          "currencyCode": "ARS",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31354,
+          "sfAccountId": "8c218e207eb64cdd88425a5534ffd098",
+          "advertiserId": "13A740182E174C3",
+          "name": "0 test client BE",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "BE",
+          "opportunitiesCount": 0,
+          "currencyCode": "EUR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31355,
+          "sfAccountId": "178d3bdbce6d492eb662b44deee31cc2",
+          "advertiserId": "6E89600172EA48B",
+          "name": "0 test client CA",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "CA",
+          "opportunitiesCount": 0,
+          "currencyCode": "CAD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31356,
+          "sfAccountId": "4b4a7b573a5649d69d449429987ac5d0",
+          "advertiserId": "18892E61898946B",
+          "name": "0 test client CL",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "CL",
+          "opportunitiesCount": 0,
+          "currencyCode": "CLP",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31357,
+          "sfAccountId": "9a622d6625244f94883bf62850a19696",
+          "advertiserId": "0F2919F800C04B1",
+          "name": "0 test client CN",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "CN",
+          "opportunitiesCount": 0,
+          "currencyCode": "CNY",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31358,
+          "sfAccountId": "a956718e373e4838a5f6d59d636ffcd2",
+          "advertiserId": "87B6C326003D421",
+          "name": "0 test client DK",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "DK",
+          "opportunitiesCount": 0,
+          "currencyCode": "DKK",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31359,
+          "sfAccountId": "972ed2dc949746d4a68922c1eb3150fb",
+          "advertiserId": "CC1053EB3384464",
+          "name": "0 test client FI",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "FI",
+          "opportunitiesCount": 0,
+          "currencyCode": "EUR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31360,
+          "sfAccountId": "cf40331e1ff344e583c92504ea061bd8",
+          "advertiserId": "702E21C7D4494BF",
+          "name": "0 test client FR",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "FR",
+          "opportunitiesCount": 0,
+          "currencyCode": "EUR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31361,
+          "sfAccountId": "62a15035fae8411d8efafe62f643e229",
+          "advertiserId": "CD6FC8D0FFEE421",
+          "name": "0 test client DE",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "DE",
+          "opportunitiesCount": 0,
+          "currencyCode": "EUR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31362,
+          "sfAccountId": "4ee42e52269f4cd281f9b34aeae5c56e",
+          "advertiserId": "7CE6B624B0C046D",
+          "name": "0 test client HK",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "HK",
+          "opportunitiesCount": 0,
+          "currencyCode": "HKD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31363,
+          "sfAccountId": "a6779dce2bcf4a23b0fe0e398c138d32",
+          "advertiserId": "EF065B9819E1442",
+          "name": "0 test client HU",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "HU",
+          "opportunitiesCount": 0,
+          "currencyCode": "HUF",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31364,
+          "sfAccountId": "ee29b4dbe10c4453b40be6681f9e57b7",
+          "advertiserId": "489029BE25E7461",
+          "name": "0 test client IN",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "IN",
+          "opportunitiesCount": 0,
+          "currencyCode": "INR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31365,
+          "sfAccountId": "e9f8dbefb52e48eaa7f3290df407a97b",
+          "advertiserId": "77FA8BFE941B4A8",
+          "name": "0 test client IT",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "IT",
+          "opportunitiesCount": 0,
+          "currencyCode": "EUR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31366,
+          "sfAccountId": "558e1f9a840f4620862b87ae3c5dc9e4",
+          "advertiserId": "2051BF6F56FB435",
+          "name": "0 test client JP",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "JP",
+          "opportunitiesCount": 0,
+          "currencyCode": "JPY",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31367,
+          "sfAccountId": "a3bd85badec4421abcc28f40235f514a",
+          "advertiserId": "968677FE65374BA",
+          "name": "0 test client MY",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "MY",
+          "opportunitiesCount": 0,
+          "currencyCode": "MYR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31368,
+          "sfAccountId": "cf36feffac5c431e95ff3b4afa81ecea",
+          "advertiserId": "2D82FECFDF1340B",
+          "name": "0 test client MX",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "MX",
+          "opportunitiesCount": 0,
+          "currencyCode": "MXN",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31369,
+          "sfAccountId": "bf4336471dd24d47a1b93fca9079ccab",
+          "advertiserId": "BAA34605BE084FA",
+          "name": "0 test client JR",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "JR",
+          "opportunitiesCount": 0,
+          "currencyCode": "CNY",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31480,
+          "sfAccountId": "4569cfc6efc14752bdc1713e32118e02",
+          "advertiserId": "18B935456A3A433",
+          "name": "0 test client ZA",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "ZA",
+          "opportunitiesCount": 0,
+          "currencyCode": "ZAR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31499,
+          "sfAccountId": "afe5e78966df497da619166386f4e8f5",
+          "advertiserId": "EF4B0B18F2B94EB",
+          "name": "0 test client AR",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "AR",
+          "opportunitiesCount": 0,
+          "currencyCode": "ARS",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31500,
+          "sfAccountId": "8f16b7c8570c41f7943cbeba63d72597",
+          "advertiserId": "DD53FF37C83C446",
+          "name": "0 test client NL",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "NL",
+          "opportunitiesCount": 0,
+          "currencyCode": "EUR",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 31647,
+          "sfAccountId": "c10f356d23224f4dbcaf880ef4aa0f5b",
+          "advertiserId": "FDBE31F58609411",
+          "name": "0 test client PN",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "currencyCode": "AED",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 32415,
+          "sfAccountId": "7ae266ec747b44aa8394c6dda6810ffa",
+          "advertiserId": "61157904A46B46E",
+          "name": "Sam-Test1-Delete-ASAP",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AP",
+          "classification": "Tier 2",
+          "opportunitiesCount": 0,
+          "currencyCode": "AFN",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 33105,
+          "sfAccountId": "0725242afb244617af2f72451a0764d9",
+          "advertiserId": "25229B4C1C74460",
+          "name": "0 test client CO",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "CO",
+          "opportunitiesCount": 0,
+          "currencyCode": "COP",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 33106,
+          "sfAccountId": "f37776dfa4384a56ab8e000eb24daa82",
+          "advertiserId": "1A42E53D7F654F3",
+          "name": "0 test client BR",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Other"
+          ],
+          "market": "BR",
+          "opportunitiesCount": 0,
+          "currencyCode": "BRL",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 33866,
+          "sfAccountId": "1cf101c59c154cf7ae4ecd7e6db468e0",
+          "advertiserId": "5380CE1FEE7641B",
+          "name": "KMK Prova1",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Auto",
+            "Agriculture"
+          ],
+          "market": "US",
+          "classification": "Tier 2",
+          "opportunitiesCount": 0,
+          "currencyCode": "USD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 34259,
+          "sfAccountId": "c0ad2ce22c1a4cc7bb9b3fcbf71874bb",
+          "advertiserId": "DFFEF1562ACC4B3",
+          "name": "ssss4649",
+          "agencyName": "Initiative",
+          "agencyNames": [
+            "Initiative"
+          ],
+          "agency": {
+            "id": 21629,
+            "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+            "name": "Initiative"
+          },
+          "agencies": [
+            {
+              "id": 21629,
+              "sfAccountId": "b3fad67482d411e9b4ed0e7402b89b22",
+              "name": "Initiative"
+            }
+          ],
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AK",
+          "opportunitiesCount": 0,
+          "currencyCode": "AED",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 34506,
+          "sfAccountId": "1b4d44cabc4f4ea086494b3ad90e1404",
+          "advertiserId": "8FA9FCAFD98B46C",
+          "name": "0 test client1 UK",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "UK",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "GBP",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 38082,
+          "sfAccountId": "3ddde4da753341afa162986917cf09de",
+          "advertiserId": "AD4522D12E1F468",
+          "name": "TEST_CORE_ADVERTISER_44_RELEASE",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Banking",
+            "Agriculture"
+          ],
+          "market": "ZZ",
+          "classification": "Tier 3",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 55147,
+          "sfAccountId": "3638f694c9574b15b5dc956e9bd47a28",
+          "advertiserId": "058833D073C14FC",
+          "name": "Release 45 client_market AU",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AU",
+          "classification": "Tier 3",
+          "opportunitiesCount": 0,
+          "currencyCode": "ARS",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 70416,
+          "sfAccountId": "3aa55019882f4c638faa97eec33ec209",
+          "advertiserId": "3424D5F20C524AD",
+          "name": "Test_Advertiser1_Poland",
+          "agencyName": "Cadreon",
+          "agencyNames": [
+            "Cadreon"
+          ],
+          "agency": {
+            "id": 21618,
+            "sfAccountId": "b3f1c82e82d411e9b4ed0e7402b89b22",
+            "name": "Cadreon"
+          },
+          "agencies": [
+            {
+              "id": 21618,
+              "sfAccountId": "b3f1c82e82d411e9b4ed0e7402b89b22",
+              "name": "Cadreon"
+            }
+          ],
+          "industries": [
+            "Engineering"
+          ],
+          "market": "PL",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98099,
+          "sfAccountId": "2c49950077544e11ad5e0a9ab2af95b3",
+          "advertiserId": "D2EEBBF016364B5",
+          "name": "0 test client12 XT",
+          "agencyName": "Other",
+          "agencyNames": [
+            "Other"
+          ],
+          "agency": {
+            "id": 20443,
+            "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+            "name": "Other",
+            "market": "US"
+          },
+          "agencies": [
+            {
+              "id": 20443,
+              "sfAccountId": "42380c8c-9f9f-11e8-b4ed-0e7402b89b22",
+              "name": "Other",
+              "market": "US"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "XT",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "MOP",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 98954,
+          "sfAccountId": "04534b275c8b4180b199113bab946045",
+          "advertiserId": "F112836D5BAC4D2",
+          "name": "Test new Agency",
+          "agencyName": "Media Experts",
+          "agencyNames": [
+            "Media Experts"
+          ],
+          "agency": {
+            "id": 21653,
+            "sfAccountId": "1ed2d17dc42411e9b4ed0e7402b89b22",
+            "name": "Media Experts"
+          },
+          "agencies": [
+            {
+              "id": 21653,
+              "sfAccountId": "1ed2d17dc42411e9b4ed0e7402b89b22",
+              "name": "Media Experts"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "DE",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 99022,
+          "sfAccountId": "d587149904374049987c8bb727d3adf0",
+          "advertiserId": "3A04F3C47DC342C",
+          "name": "0 test client12 AC",
+          "agencyName": "Ansible",
+          "agencyNames": [
+            "Trilia",
+            "Campbell Ewald",
+            "Brand Connection",
+            "Third party",
+            "Ansible"
+          ],
+          "agency": {
+            "id": 21616,
+            "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+            "name": "Ansible"
+          },
+          "agencies": [
+            {
+              "id": 21642,
+              "sfAccountId": "b405444382d411e9b4ed0e7402b89b22",
+              "name": "Third party"
+            },
+            {
+              "id": 21617,
+              "sfAccountId": "b3f10ec182d411e9b4ed0e7402b89b22",
+              "name": "Brand Connection"
+            },
+            {
+              "id": 56,
+              "sfAccountId": "001A000000C17afIAB",
+              "name": "Campbell Ewald",
+              "market": "US"
+            },
+            {
+              "id": 21616,
+              "sfAccountId": "b3f029b282d411e9b4ed0e7402b89b22",
+              "name": "Ansible"
+            },
+            {
+              "id": 21644,
+              "sfAccountId": "b406e00982d411e9b4ed0e7402b89b22",
+              "name": "Trilia"
+            }
+          ],
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AC",
+          "classification": "None",
+          "opportunitiesCount": 0,
+          "currencyCode": "HKD",
+          "status": "Active",
+          "isBrand": false
+        },
+        {
+          "id": 7101,
+          "sfAccountId": "0010j00000BShwRAAT",
+          "advertiserId": "AA-2017-9-10776",
+          "name": "Brand name for truncation ADVERTISER name for truncation ADVERTISER name for truncation ADVERTISER name for truncation ADVERTISER name for truncation ADVERTISER name for truncation ADVERTISER name for truncation",
+          "parentAccount": {
+            "id": 31500,
+            "name": "0 test client NL"
+          },
+          "industries": [
+            "Biotechnology",
+            "Hospitality",
+            "Entertainment",
+            "Transportation",
+            "Electronics",
+            "Not For Profit",
+            "Machinery",
+            "Auto",
+            "Retail",
+            "Engineering",
+            "Utilities",
+            "Energy",
+            "Education",
+            "Technology",
+            "Food & Beverage",
+            "Agriculture",
+            "Shipping",
+            "Manufacturing",
+            "Construction",
+            "Environmental",
+            "Government",
+            "Finance",
+            "Banking",
+            "Communications",
+            "Media",
+            "Telecommunications",
+            "Chemicals",
+            "Apparel",
+            "Recreation",
+            "Real Estate",
+            "Insurance",
+            "Consulting",
+            "Healthcare",
+            "Other"
+          ],
+          "market": "NL",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 8600,
+          "sfAccountId": "0010j00000BjKd5AAF",
+          "advertiserId": "AA-2017-11-12277",
+          "name": "Test Brand 28.11.17",
+          "parentAccount": {
+            "id": 7797,
+            "name": "Advertiser Test 2.25"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 9157,
+          "sfAccountId": "0010j00000BjlodAAB",
+          "advertiserId": "AA-2017-12-12847",
+          "name": "qweqweqwe",
+          "parentAccount": {
+            "id": 6642,
+            "name": "(AT) Creatives Advertiser One"
+          },
+          "industries": [
+            "Auto",
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 14132,
+          "sfAccountId": "0010j00000Bx9hHAAR",
+          "advertiserId": "AA-2018-4-17869",
+          "name": "Test Brand Integration",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 14176,
+          "sfAccountId": "0010j00000BxBePAAV",
+          "advertiserId": "AA-2018-4-17914",
+          "name": "sf_int_br_test",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 30534,
+          "sfAccountId": "0010j00000BxETAAA3",
+          "advertiserId": "AA-2018-4-17955",
+          "name": "no_market_brand",
+          "parentAccount": {
+            "id": 4004,
+            "name": "+Kota"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "MX",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 30563,
+          "sfAccountId": "0010j00000BxHmfAAF",
+          "advertiserId": "AA-2018-4-18015",
+          "name": "bgnFDGN",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 30627,
+          "sfAccountId": "0010j00000BxZq2AAF",
+          "advertiserId": "AA-2018-4-18089",
+          "name": "testBrandSprint76",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 30863,
+          "sfAccountId": "0010j00000ByPt6AAF",
+          "advertiserId": "AA-2018-5-18374",
+          "name": "Test Brand 781",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 30986,
+          "sfAccountId": "0010j00000CKdt7AAD",
+          "advertiserId": "AA-2018-6-18557",
+          "name": "23523532",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 31046,
+          "sfAccountId": "b83eb60a4ccb4a96a0b6d3968a427691",
+          "advertiserId": "E983CE47-8C17-1",
+          "name": "wsdasd",
+          "parentAccount": {
+            "id": 4004,
+            "name": "+Kota"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "MX",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 31060,
+          "sfAccountId": "fc5de86228204347bff2386394fa0687",
+          "advertiserId": "E983DC1A-8C17-1",
+          "name": "Test Brand Sprint 81",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 31203,
+          "sfAccountId": "327f89833e3c4335887953c436635851",
+          "advertiserId": "A9A8468996AD49D",
+          "name": "Test Brand Sprint 84 UPD",
+          "parentAccount": {
+            "id": 30988,
+            "name": "$SELECT * FROM Users"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 31290,
+          "sfAccountId": "6b3ec9fe284640ef942d864e9009b7a4",
+          "advertiserId": "981880E0C95643E",
+          "name": "Test Advertiser Sprint 86 upda",
+          "parentAccount": {
+            "id": 30988,
+            "name": "$SELECT * FROM Users"
+          },
+          "industries": [
+            "Apparel",
+            "Banking"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 32067,
+          "sfAccountId": "5d5346e178564816a0e5ef769093471c",
+          "advertiserId": "EE414E87F101419",
+          "name": "qqqq",
+          "parentAccount": {
+            "id": 30988,
+            "name": "$SELECT * FROM Users"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 32179,
+          "sfAccountId": "dc255d2df9744a6da2b169f9e662dbea",
+          "advertiserId": "15D163CCBD9C474",
+          "name": "Core test Advertiser-Brand",
+          "parentAccount": {
+            "id": 7678,
+            "name": "(AAA) Abacus Accounting"
+          },
+          "industries": [
+            "Auto"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 32257,
+          "sfAccountId": "143d74183d1d4a0bb26ee89a74e0013d",
+          "advertiserId": "326D54E4FC72443",
+          "name": "Test adv-cli 19/11",
+          "parentAccount": {
+            "id": 30988,
+            "name": "$SELECT * FROM Users"
+          },
+          "industries": [
+            "Banking"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 32258,
+          "sfAccountId": "f40ed8481fa6411ab200fdb9ec52ced9",
+          "advertiserId": "F5C395C65D7A404",
+          "name": "Test Brand 19/11",
+          "parentAccount": {
+            "id": 30988,
+            "name": "$SELECT * FROM Users"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "PN",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 32623,
+          "sfAccountId": "c1344029e6974da48195a07ecb1da697",
+          "advertiserId": "93591D78BD2E454",
+          "name": "test_brand_core_team_40",
+          "parentAccount": {
+            "id": 31496,
+            "name": " Demo Client Account Type AR"
+          },
+          "industries": [
+            "Auto"
+          ],
+          "market": "AR",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33121,
+          "sfAccountId": "9f35151c28d24da9bcb97a0c29e52251",
+          "advertiserId": "C959DE5A0D3D46C",
+          "name": "Test Brand 09/01",
+          "parentAccount": {
+            "id": 31492,
+            "name": " Demo Client Account Type AU"
+          },
+          "industries": [
+            "Auto",
+            "Apparel",
+            "Agriculture"
+          ],
+          "market": "AU",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33153,
+          "sfAccountId": "f4082c6df8ac4d239819c219d64aef1d",
+          "advertiserId": "06053642803D415",
+          "name": "Zagori - Account_[CSF]_UI_Automation_Brand_Edit_Processing_bla_bla 33153",
+          "parentAccount": {
+            "id": 31492,
+            "name": " Demo Client Account Type AU"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AU",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33154,
+          "sfAccountId": "53b514f9b0e442b39ed34a2ef5603092",
+          "advertiserId": "14CD25D50B0D400",
+          "name": "Zagori - Account_[CSF]_UI_Automation_Brand_Create_Processing 33154",
+          "parentAccount": {
+            "id": 3036,
+            "name": "Huawei Tech (UAE) FZ LLC"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33310,
+          "sfAccountId": "8045b036c30948a39eead332e6eaa3e7",
+          "advertiserId": "44A8CF4173054BC",
+          "name": "Test AR",
+          "parentAccount": {
+            "id": 31499,
+            "name": "0 test client AR"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AR",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33311,
+          "sfAccountId": "863218de2aaf47bfbb562bcdd95214d7",
+          "advertiserId": "2F58880502B740F",
+          "name": "Test AU",
+          "parentAccount": {
+            "id": 31353,
+            "name": "0 test client AU"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AU",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33472,
+          "sfAccountId": "905dda41929f4f5ebbfaffc32b2f104b",
+          "advertiserId": "31E7EDB968144E6",
+          "name": "MOPT Global Brand AI",
+          "parentAccount": {
+            "id": 31352,
+            "name": "0 test client AI"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "AI",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 102547,
+          "sfAccountId": "430c20df4036443180e9090a6c0f0e56",
+          "advertiserId": "CDE7C9EC098D497",
+          "name": "OPT Sync brand",
+          "parentAccount": {
+            "id": 102546,
+            "name": "OPT Sync"
+          },
+          "industries": [
+            "Auto"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33582,
+          "sfAccountId": "758c35cba5e043d1b364be99e16e79f1",
+          "advertiserId": "81439F0497F74F9",
+          "name": "KTest AU",
+          "parentAccount": {
+            "id": 31492,
+            "name": " Demo Client Account Type AU"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AU",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33798,
+          "sfAccountId": "fe7b917dd40d46328d6d5216e3f3e1aa",
+          "advertiserId": "629A12E32E814B9",
+          "name": "Ktest AE",
+          "parentAccount": {
+            "id": 3645,
+            "name": "Institute of Management Accountants,Inc"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 33990,
+          "sfAccountId": "5c910f962b5d4dd4a9dc8db58016d1d4",
+          "advertiserId": "1DB9CAFCA47B4E4",
+          "name": "Test_core_agbrand_stage_check AE",
+          "parentAccount": {
+            "id": 2996,
+            "name": "Americana Co. 66666123"
+          },
+          "industries": [
+            "Apparel",
+            "Banking"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 34237,
+          "sfAccountId": "5a51e3f2852e4f7abd999b83d5485127",
+          "advertiserId": "A4BDE650301D4A7",
+          "name": "test brand save AE",
+          "parentAccount": {
+            "id": 2996,
+            "name": "Americana Co. 66666123"
+          },
+          "industries": [
+            "Auto"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 34238,
+          "sfAccountId": "0a55bdd62541427d829fb7141018e3bd",
+          "advertiserId": "46616E20AB274B1",
+          "name": "test brand save AI",
+          "parentAccount": {
+            "id": 31352,
+            "name": "0 test client AI"
+          },
+          "industries": [
+            "Auto"
+          ],
+          "market": "AI",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 34245,
+          "sfAccountId": "a1049b0cc83440b78aeddaf6d774a728",
+          "advertiserId": "3A22093D34AB47B",
+          "name": "One more global brand AC",
+          "parentAccount": {
+            "id": 31719,
+            "name": "test markets client AC"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AC",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 34996,
+          "sfAccountId": "7930af78a9ed4c87900f0274ad5aaaa2",
+          "advertiserId": "B2CA196AD7E9425",
+          "name": "DORITOS",
+          "parentAccount": {
+            "id": 8119,
+            "name": "McDonald's"
+          },
+          "industries": [
+            "Food & Beverage"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 46484,
+          "sfAccountId": "31bd7930bd614f369d4c7e13e6c666a5",
+          "advertiserId": "1BCE736F8228413",
+          "name": "spr_103_test_gb_edited AR",
+          "parentAccount": {
+            "id": 46482,
+            "name": "spr_103_test_clietn_several_markets AR"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AR",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 49932,
+          "sfAccountId": "f143e3062a434bd483ab9baf21c7f69f",
+          "advertiserId": "28C20D4A3790457",
+          "name": "McTest",
+          "parentAccount": {
+            "id": 31160,
+            "name": "OPT McDonald's"
+          },
+          "industries": [
+            "Apparel"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 49934,
+          "sfAccountId": "5c6b040256084ae2bc6759a1b63e5041",
+          "advertiserId": "53B3CED82D90430",
+          "name": "OPT Brand",
+          "parentAccount": {
+            "id": 31160,
+            "name": "OPT McDonald's"
+          },
+          "industries": [
+            "Auto"
+          ],
+          "market": "US",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 81509,
+          "sfAccountId": "e095d6bb2c8b4fce8da248e96a0c219f",
+          "advertiserId": "551C04F293CF4A0",
+          "name": "spr107_01 AE",
+          "parentAccount": {
+            "id": 3645,
+            "name": "Institute of Management Accountants,Inc"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 99677,
+          "sfAccountId": "de112119b73948e08af4ed18091fe95b",
+          "advertiserId": "0A5B28C1FE744BA",
+          "name": "5669_test_gb AR",
+          "parentAccount": {
+            "id": 2555,
+            "name": "CAD-AR-ICBC"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AR",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 99678,
+          "sfAccountId": "6a5a8058f2c04970be7069cd6e04323c",
+          "advertiserId": "C3908EFE58DD46D",
+          "name": "5669_test_gb AC",
+          "parentAccount": {
+            "id": 33222,
+            "name": "other"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AC",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 99679,
+          "sfAccountId": "6fe9a28c769a465e803a4c5835bae9b5",
+          "advertiserId": "4A2D1F15CF5B4BA",
+          "name": "5669_test_gb AP",
+          "parentAccount": {
+            "id": 33222,
+            "name": "other"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "AP",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 99680,
+          "sfAccountId": "7ec93ac136e34665ad2adcf05e0c4049",
+          "advertiserId": "558A559EE7E54FA",
+          "name": "5669_test_gb MX",
+          "parentAccount": {
+            "id": 33222,
+            "name": "other"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "MX",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 99681,
+          "sfAccountId": "4c755664b7d549cb9487d7100f7d801e",
+          "advertiserId": "A2174EBE6822470",
+          "name": "5669_test_gb XT",
+          "parentAccount": {
+            "id": 98099,
+            "name": "0 test client12 XT"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "XT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 99682,
+          "sfAccountId": "63fbc32d526a4058a114d048e4dbc97d",
+          "advertiserId": "E66B9BF87BE8429",
+          "name": "5669_test_gb ZA",
+          "parentAccount": {
+            "id": 31480,
+            "name": "0 test client ZA"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "ZA",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 99683,
+          "sfAccountId": "6d1d2957d1bb45fcbc9a5c9612478ade",
+          "advertiserId": "D9469B162DCE410",
+          "name": "5669_test_gb ZZ",
+          "parentAccount": {
+            "id": 38082,
+            "name": "TEST_CORE_ADVERTISER_44_RELEASE"
+          },
+          "industries": [
+            "Agriculture"
+          ],
+          "market": "ZZ",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 101634,
+          "sfAccountId": "9ecffe8084bd40fea4664b311d2c6bfc",
+          "advertiserId": "A94A6193A183453",
+          "name": "Test GB AC",
+          "parentAccount": {
+            "id": 99022,
+            "name": "0 test client12 AC"
+          },
+          "industries": [
+            "Auto"
+          ],
+          "market": "AC",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 104361,
+          "sfAccountId": "4bc9f988c0d84509874c57dae4ca6504",
+          "advertiserId": "807BD603BA2549A",
+          "name": "Test Global Brand Change log XT",
+          "parentAccount": {
+            "id": 31351,
+            "name": "0000 test cclient1 XT"
+          },
+          "industries": [
+            "Auto",
+            "Apparel"
+          ],
+          "market": "XT",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 104379,
+          "sfAccountId": "5f7cd0cee3fd43df819b42c4dbd608ae",
+          "advertiserId": "9EB106D75B5C455",
+          "name": "Test Global Brand Change log 1 FI",
+          "parentAccount": {
+            "id": 31359,
+            "name": "0 test client FI"
+          },
+          "industries": [
+            "Auto",
+            "Biotechnology"
+          ],
+          "market": "FI",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 107575,
+          "sfAccountId": "49a73c7965fe408ba4fbf02a7698f9ce",
+          "advertiserId": "F036B422D1C3491",
+          "name": "Test Global Brand Change log 1123 AE",
+          "parentAccount": {
+            "id": 2996,
+            "name": "Americana Co. 66666123"
+          },
+          "industries": [
+            "Auto",
+            "Biotechnology",
+            "Retail",
+            "Utilities",
+            "Technology",
+            "Recreation",
+            "Transportation",
+            "Real Estate",
+            "Telecommunications",
+            "Shipping",
+            "Other"
+          ],
+          "market": "AE",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        },
+        {
+          "id": 107576,
+          "sfAccountId": "4f5f3d29261a40b4bee1922976e1d182",
+          "advertiserId": "6072136A76D4462",
+          "name": "Test Global Brand Change log 1123 BR",
+          "parentAccount": {
+            "id": 33106,
+            "name": "0 test client BR"
+          },
+          "industries": [
+            "Auto",
+            "Biotechnology",
+            "Retail",
+            "Utilities",
+            "Technology",
+            "Recreation",
+            "Transportation",
+            "Real Estate",
+            "Telecommunications",
+            "Shipping",
+            "Other"
+          ],
+          "market": "BR",
+          "opportunitiesCount": 0,
+          "status": "Active",
+          "isBrand": true
+        }
+      ],
+      "costModels": [
+        "Activity Based",
+        "CPCV",
+        "Commission"
+      ],
+      "industries": [
+        "Apparel",
+        "Auto",
+        "Banking"
+      ],
+      "classification": "Tier 1",
+      "businessModel": "Power Box",
+      "agencies": [
+        {
+          "id": 56,
+          "name": "Campbell Ewald"
+        },
+        {
+          "id": 39,
+          "name": "UM"
+        },
+        {
+          "id": 55,
+          "name": "R/GA"
+        }
+      ],
+      "type": "Client"
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "pageSize": 20,
+    "pageNumber": 0,
+    "offset": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "totalElements": 657,
+  "totalPages": 33,
+  "last": false,
+  "sort": {
+    "sorted": true,
+    "unsorted": false,
+    "empty": false
+  },
+  "first": true,
+  "numberOfElements": 20,
+  "size": 20,
+  "number": 0,
+  "empty": false
+}

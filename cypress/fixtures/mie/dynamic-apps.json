@@ -1,0 +1,149 @@
+[
+  {
+    "name": "apiportal",
+    "nameCode": "applications.apiportal",
+    "entryPointPath": "/apiportal",
+    "status": "AVAILABLE",
+    "navigationItems": [
+      {
+        "name": "apiportal",
+        "nameCode": "applications.apiportal",
+        "navigationSection": "Learn",
+        "navigationColumn": "Built with Unity",
+        "path": "/apiportal",
+        "order": 0
+      }
+    ],
+    "whiteLabels": [
+      {
+        "name": "Cadreon"
+      }
+    ],
+    "id": 1185,
+    "version": 0,
+    "createdBy": "test.user.creator",
+    "createdAt": "2020-04-02T11:49:36Z",
+    "updatedBy": "test.user.editor",
+    "updatedAt": "2020-04-02T11:49:36Z",
+    "roles": [
+      {
+        "name": "Dev API Portal User"
+      }
+    ]
+  },
+  {
+    "name": "shell",
+    "nameCode": "applications.administration",
+    "entryPointPath": "/shell/#/administration",
+    "status": "AVAILABLE",
+    "navigationItems": [
+      {
+        "name": "tools",
+        "nameCode": "left_menu.tools",
+        "navigationSection": "Create",
+        "navigationColumn": "Operations",
+        "path": "/shell/#/tools",
+        "order": 0
+      },
+      {
+        "name": "accounts",
+        "nameCode": "left_menu.accounts",
+        "navigationSection": "Create",
+        "navigationColumn": "Operations",
+        "path": "/shell/#/accounts/advertisers",
+        "order": 0
+      }
+    ],
+    "whiteLabels": [],
+    "notificationDetails": {
+      "generatorType": "com.cadreon.unity:shell",
+      "handlerPath": "/notifications-handler",
+      "isUserNotificationsGenerated": false
+    },
+    "apiInfoPath": "/shell/v1.0/api/info",
+    "uiInfoPath": "/shell/manifest.json",
+    "id": 1,
+    "version": 0,
+    "createdBy": "migration",
+    "createdAt": "2017-04-25T15:53:50Z",
+    "updatedBy": "migration",
+    "updatedAt": "2017-04-25T16:28:48Z",
+    "roles": [
+      {
+        "name": "AUTH_API_TEST_JR3nyTBvU6vUGhqXhprTXuJRx7F7U"
+      },
+      {
+        "name": "Client_Reporter User_VERIFY"
+      },
+      {
+        "name": "User Status Admin"
+      },
+      {
+        "name": "AMP Syndication_AMP User_ATV Campaign manager_Agency Planner_Campaign Manager_Campaign Manager (Demo)_Campaign Manager with AMP rights_Campaign Market Manager_Client_Custom Client_Director_Finance Approver_Finance User_Marketplace Campaign Man_VERIFY"
+      },
+      {
+        "name": "CORE_TEST_ROLE_MANAGE_CLIENT_CREDENTIALS"
+      },
+      {
+        "name": "Super Power User"
+      },
+      {
+        "name": "Integrated Applications Admin"
+      },
+      {
+        "name": "Symphony Taxonomy External User"
+      },
+      {
+        "name": "TEST CLIENT ROLE FOR ACCEPTANCE"
+      },
+      {
+        "name": "System Alerts Role"
+      },
+      {
+        "name": "Accounts Viewer"
+      },
+      {
+        "name": "Administration Access Approver"
+      },
+      {
+        "name": "User Management Role"
+      },
+      {
+        "name": "Accounts Editor"
+      },
+      {
+        "name": "Integrations Role"
+      },
+      {
+        "name": "Campaign Manager_Programmatic Specialist_Reporter User_VERIFY"
+      },
+      {
+        "name": "UserReadOnlyRole"
+      },
+      {
+        "name": "my_role"
+      },
+      {
+        "name": "Custom Client"
+      },
+      {
+        "name": "PartnerAccountRole"
+      },
+      {
+        "name": "Agency Planner_Client_Reporter User_VERIFY"
+      },
+      {
+        "name": "TEST_TEST_TEST_123"
+      },
+      {
+        "name": "User Access Manager"
+      },
+      {
+        "name": "AUTH_API_TEST_dJ1DeG7uOHum6MftDnQBRVET4aVHUjOhL"
+      },
+      {
+        "name": "Admin"
+      }
+    ]
+  }
+]

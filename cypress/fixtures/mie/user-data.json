@@ -1,0 +1,500 @@
+{
+  "roles": [
+    "allow_productoverviews_content_write",
+    "allow_productoverviews_library_admin_write",
+    "allow_brand_write",
+    "allow_helpcenter_content_write",
+    "productoverviews_allow_search_read",
+    "cad_access_wagov_publisher",
+    "cad_access_csf",
+    "cad_access_api_integrations",
+    "initiativeuniversity_allow_app_use",
+    "allow_productoverviews_search_read",
+    "tools_allow_exceptions_write",
+    "allow_helpcenter_home_admin_read",
+    "helpcenter_allow_content_admin_write",
+    "helpcenter_allow_content_read",
+    "cm_allow_dashboardListView_read",
+    "cadreonroadmapstatus_allow_content_admin_read",
+    "productoverviews_allow_content_read",
+    "helpcenter_allow_app_access",
+    "revlon_allow_app_use",
+    "allow_user_impersonation",
+    "allow_user_planner",
+    "cm_allow_activedeals_read",
+    "initiativeuniversity_allow_home_read",
+    "allow_productoverviews_home_read",
+    "allow_helpcenter_search_read",
+    "cad_access_unilever_publisher",
+    "cc_allow_campaigns_read",
+    "cadreonroadmapstatus_allow_content_read",
+    "cad_access_reporting_net_cost",
+    "cad_access_reporting_campaign_analytics_dsp",
+    "illuminate_allow_home_admin_write",
+    "cad_access_aoi_query_edit",
+    "allow_compass_library_admin_read",
+    "allow_compass_content_write",
+    "cad_access_cm_integration_management",
+    "allow_productoverviews_content_admin_write",
+    "allow_global_brand_read",
+    "illuminate_allow_library_read",
+    "helpcenter_allow_library_admin_write",
+    "cad_access_ask_for_permissions",
+    "allow_compass_content_read",
+    "illuminate_allow_home_read",
+    "allow_math_engine_run",
+    "allow_helpcenter_library_admin_write",
+    "cc_allow_optimizations_read",
+    "allow_dsp_profiles_read",
+    "cad_access_cm_advertisers_mapping",
+    "allow_client_read",
+    "initiativeuniversity_allow_library_admin_write",
+    "allow_compass_search_read",
+    "productoverviews_allow_content_admin_write",
+    "cad_access_ooh_campaign_draft_create_edit",
+    "cad_access_ooh_campaign_upload_attachment",
+    "productoverviews_allow_home_admin_write",
+    "cad_access_agency_edit",
+    "cad_access_reporting_finished_campaign",
+    "allow_productoverviews_content_read",
+    "cad_access_ooh_campaign_approve_rfp",
+    "allow_client_management_ui_write",
+    "cad_access_client_credentials_write",
+    "helpcenter_allow_library_read",
+    "allow_compass_library_admin_write",
+    "helpcenter_allow_content_admin_read",
+    "rufus_allow_app_use",
+    "cadreonroadmapstatus_allow_content_write",
+    "allow_cc_clientSettings_view",
+    "cad_access_role_management",
+    "cad_role_id_80554",
+    "illuminate_allow_library_admin_write",
+    "allow_helpcenter_home_read",
+    "allow_helpcenter_content_admin_read",
+    "cad_access_administration",
+    "roadmapstatus_allow_app_use",
+    "cad_access_ooh_planner",
+    "helpcenter_allow_library_admin_read",
+    "helpcenter_allow_content_write",
+    "productoverviews_allow_library_read",
+    "cm_allow_campaign_draft_write",
+    "cad_access_platform_management",
+    "cm_allow_campaign_live_read",
+    "illuminate_allow_app_use",
+    "allow_helpcenter_library_read",
+    "allow_helpcenter_library_admin_read",
+    "cadreonroadmapstatus_allow_home_admin_write",
+    "tools_allow_campaignImport_read",
+    "cad_access_system_alerts",
+    "allow_compass_content_admin_write",
+    "roadmapstatus_allow_content_write",
+    "initiativeuniversity_allow_content_admin_read",
+    "cadreonroadmapstatus_allow_library_read",
+    "roadmapstatus_allow_content_read",
+    "illuminate_allow_content_admin_write",
+    "allow_dictionary_write",
+    "allow_compass_app_use",
+    "cad_access_web_extension",
+    "cad_access_rufus_publisher",
+    "allow_advertiser_read",
+    "illuminate_allow_content_read",
+    "cad_access_application_management",
+    "cad_access_ooh_campaign_create_audience",
+    "initiativeuniversity_allow_library_admin_read",
+    "allow_notificenter_db_cleanup_job_trigger",
+    "cad_role_id_54211",
+    "cad_access_markets_management",
+    "allow_global_brand_write",
+    "productoverviews_allow_content_admin_read",
+    "roadmapstatus_allow_home_admin_write",
+    "allow_helpcenter_home_admin_write",
+    "unilever_allow_app_use",
+    "cadreonroadmapstatus_allow_library_admin_write",
+    "cad_access_aoi_query_view",
+    "allow_productoverviews_home_admin_read",
+    "cad_access_reporting",
+    "roadmapstatus_allow_library_admin_write",
+    "cm_allow_dspCampaigns_write",
+    "cad_role_id_54208",
+    "allow_notification_center_settings_write",
+    "cia_allow_app_use",
+    "allow_helpcenter_app_use",
+    "cad_role_id_54220",
+    "huddle_allow_app_use",
+    "productoverviews_allow_home_admin_read",
+    "allow_productoverviews_library_read",
+    "allow_dspPartnerProfiles_write",
+    "allow_client_write",
+    "cad_access_cm_edit_platforms",
+    "allow_compass_content_admin_read",
+    "productoverviews_allow_library_admin_write",
+    "cad_role_id_54217",
+    "allow_cc_advertiser_settings_read",
+    "cad_role_id_50534",
+    "allow_compass_library_read",
+    "cad_role_id_54214",
+    "illuminate_allow_content_write",
+    "cad_access_ooh_campaign_view",
+    "cm_allow_app_use",
+    "cad_role_id_54232",
+    "initiativeuniversity_allow_content_write",
+    "cad_role_id_63068",
+    "initiativeuniversity_allow_content_read",
+    "allow_notification_center_settings_read",
+    "cad_access_csf_edit_io_finance",
+    "cad_role_id_63071",
+    "cad_access_huddle_publisher",
+    "cad_role_id_63074",
+    "allow_helpcenter_content_read",
+    "allow_productoverviews_home_admin_write",
+    "cc_allow_app_use",
+    "allow_compass_home_admin_read",
+    "cad_role_id_54229",
+    "cadreonroadmapstatus_allow_home_admin_read",
+    "allow_helpcenter_content_admin_write",
+    "cad_role_id_54223",
+    "cad_role_id_54226",
+    "illuminate_allow_search_read",
+    "productoverviews_allow_home_read",
+    "roadmapstatus_allow_library_read",
+    "allow_user_session_read",
+    "cad_role_id_1",
+    "helpcenter_allow_home_admin_read",
+    "illuminate_allow_home_admin_read",
+    "cc_allow_audienceHub_read",
+    "cad_access_Initiative_newbusiness_publisher",
+    "allow_impersonation_log_read",
+    "cad_role_id_50552",
+    "cad_role_id_54238",
+    "cad_access_ooh_campaign_download_attachment",
+    "helpcenter_allow_search_read",
+    "cm_allow_opportunity_read",
+    "cad_role_id_54235",
+    "initiativeuniversity_allow_search_read",
+    "wagov_allow_app_use",
+    "roadmapstatus_allow_search_read",
+    "cad_access_cia_publisher",
+    "roadmapstatus_allow_library_admin_read",
+    "cm_allow_campaign_completed_read",
+    "initiativeuniversity_allow_home_admin_write",
+    "allow_productoverviews_library_admin_read",
+    "cad_access_aoi_user",
+    "cad_access_cm_net_cost",
+    "roadmapstatus_allow_content_admin_read",
+    "allow_compass_home_admin_write",
+    "cad_access_user_management",
+    "cadreonroadmapstatus_allow_app_use",
+    "cad_role_id_51825",
+    "productoverviews_allow_app_access",
+    "initiativeuniversity_allow_content_admin_write",
+    "helpcenter_allow_home_read",
+    "cadreonroadmapstatus_allow_content_admin_write",
+    "helpcenter_allow_home_admin_write",
+    "allow_compass_home_read",
+    "initiativeuniversity_allow_library_read",
+    "cad_access_reporting_live_campaign",
+    "cad_access_ooh_campaign_request_rfp",
+    "roadmapstatus_allow_content_admin_write",
+    "cad_access_market_all",
+    "allow_cc_advertiser_settings_write",
+    "initiativeuniversity_allow_home_admin_read",
+    "productoverviews_allow_library_admin_read",
+    "cadreonroadmapstatus_allow_library_admin_read",
+    "cad_access_revlon_publisher",
+    "allow_dsp_profiles_write",
+    "illuminate_allow_library_admin_read",
+    "allow_productoverviews_app_use",
+    "productoverviews_allow_content_write",
+    "allow_adserver_mapping_management",
+    "newbusiness_allow_app_use",
+    "cad_access_ooh",
+    "roadmapstatus_allow_home_read",
+    "cadreonroadmapstatus_allow_home_read",
+    "cad_access_ooh_campaign_draft_delete",
+    "cadreonroadmapstatus_allow_search_read",
+    "allow_advertiser_write",
+    "allow_productoverviews_content_admin_read",
+    "illuminate_allow_content_admin_read",
+    "roadmapstatus_allow_home_admin_read"
+  ],
+  "endUser": "mbwna.test1@carbon.super",
+  "givenName": "mbwna",
+  "email": "mbwna.test1@mbww.com",
+  "lastName": "test1",
+  "firstName": "mbwna",
+  "login": "mbwna.test1",
+  "customData": {
+    "localization": {
+      "language": "en-us",
+      "locale": "en-us",
+      "grouping": ",",
+      "decimal": "."
+    },
+    "ssp": [],
+    "markets": [
+      "US",
+      "UK"
+    ],
+    "clients": [
+      50064,
+      51380,
+      50036,
+      51382,
+      50039,
+      50042,
+      50045,
+      50253,
+      50030,
+      50063
+    ],
+    "partners": [],
+    "timezone": "Asia/Kuala_Lumpur",
+    "media_owners": [],
+    "advertisers": [
+      {
+        "sfAccountId": "001A000001A8jDAIAZ",
+        "name": "Amazon UK",
+        "market": "UK"
+      },
+      {
+        "sfAccountId": "5a814e01-95b1-11e8-b4ed-0e7402b89b22",
+        "name": "Accenture",
+        "market": "US"
+      },
+      {
+        "sfAccountId": "001A000001N99lPIAR",
+        "name": "Amazon US",
+        "market": "US"
+      },
+      {
+        "sfAccountId": "001A000001OKZa6IAH",
+        "name": "Hulu US",
+        "market": "US"
+      }
+    ],
+    "agencies": [
+      {
+        "id": 21618,
+        "name": "Matterkind"
+      },
+      {
+        "id": 21657,
+        "name": "Acxiom"
+      },
+      {
+        "id": 21654,
+        "name": "Kinesso"
+      },
+      {
+        "id": 21632,
+        "name": "IPG"
+      }
+    ],
+    "pdmIds": [],
+    "informer": {
+      "multimarket": true
+    }
+  },
+  "whiteLabels": [
+    {
+      "id": 17,
+      "name": "Citi",
+      "urls": [
+        "qa-citi.acxiom-tech.com",
+        "qa-citi.cadreonint.com"
+      ],
+      "code": "citi",
+      "defaultApplication": {
+        "name": "ooh"
+      },
+      "default": false
+    },
+    {
+      "id": 13,
+      "name": "Kinesso",
+      "urls": [
+        "qa-mie.kinesso.com",
+        "qa-mie.cadreonint.com"
+      ],
+      "code": "kinesso",
+      "defaultApplication": {
+        "name": "huddle"
+      },
+      "default": false
+    },
+    {
+      "id": 1,
+      "name": "Cadreon",
+      "urls": [
+        "qa-app.cadreon.com"
+      ],
+      "code": "cadreon",
+      "defaultApplication": {
+        "name": "huddle"
+      },
+      "default": false
+    },
+    {
+      "id": 15,
+      "name": "Rapport",
+      "urls": [
+        "qa-mie.rapportww.com",
+        "qa-rapportww.cadreonint.com"
+      ],
+      "code": "rapport",
+      "defaultApplication": {
+        "name": "ooh"
+      },
+      "default": false
+    }
+  ],
+  "userType": "BUSINESS",
+  "applications": [
+    {
+      "name": "cc",
+      "customer": true,
+      "role": {
+        "name": "Mastermind Manager"
+      }
+    },
+    {
+      "name": "Cadreon Product Roadmaps and Status",
+      "customer": true,
+      "role": {
+        "name": "Cadreon Product Roadmaps and Status Publisher"
+      }
+    },
+    {
+      "name": "Initiative University",
+      "customer": true,
+      "role": {
+        "name": "Initiative University Publisher"
+      }
+    },
+    {
+      "name": "productoverviews",
+      "customer": true,
+      "role": {
+        "name": "Product Overviews Publisher"
+      }
+    },
+    {
+      "name": "revlon",
+      "customer": true,
+      "role": {
+        "name": "Revlon Publisher"
+      }
+    },
+    {
+      "name": "ooh",
+      "customer": true,
+      "role": {
+        "name": "Planner"
+      }
+    },
+    {
+      "name": "cm",
+      "customer": true,
+      "role": {
+        "name": "Campaigns Admin"
+      }
+    },
+    {
+      "name": "Product Roadmaps and Status",
+      "customer": true,
+      "role": {
+        "name": "Product Roadmaps and Status Publisher"
+      }
+    },
+    {
+      "name": "huddle",
+      "customer": true,
+      "role": {
+        "name": "Huddle Publisher"
+      }
+    },
+    {
+      "name": "newbusiness",
+      "customer": true,
+      "role": {
+        "name": "New Business Publisher"
+      }
+    },
+    {
+      "name": "compass",
+      "customer": true,
+      "role": {
+        "name": "Compass Publisher"
+      }
+    },
+    {
+      "name": "shell",
+      "customer": true,
+      "role": {
+        "name": "Admin"
+      }
+    },
+    {
+      "name": "helpcenter",
+      "customer": true,
+      "role": {
+        "name": "Help Center Publisher"
+      }
+    },
+    {
+      "name": "aoi",
+      "customer": true,
+      "role": {
+        "name": "Always On Insights Query Manager"
+      }
+    },
+    {
+      "name": "cia",
+      "customer": true,
+      "role": {
+        "name": "CIA Publisher"
+      }
+    },
+    {
+      "name": "rufus",
+      "customer": true,
+      "role": {
+        "name": "Amazon Rufus Publisher"
+      }
+    },
+    {
+      "name": "illuminate",
+      "customer": true,
+      "role": {
+        "name": "Illuminate Publisher"
+      }
+    },
+    {
+      "name": "wagov",
+      "customer": true,
+      "role": {
+        "name": "Western Australian Government Publisher"
+      }
+    },
+    {
+      "name": "unilever",
+      "customer": true,
+      "role": {
+        "name": "Unilever Publisher"
+      }
+    }
+  ],
+  "region": "Region Value Not Set",
+  "country": "United States",
+  "samlguid": "73FA2C86-E923-40C3-BD74-38ABA9FDAF76",
+  "ipgagency": "MBW",
+  "userName": "mbwna.test1",
+  "markets": [
+    "US"
+  ],
+  "advertisers": [],
+  "partners": [],
+  "clients": [
+    "50064"
+  ]
+}
