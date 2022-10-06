@@ -1,0 +1,145 @@
+{
+    "Objective": [
+        "Brand Loyalty",
+        "Brand Building",
+        "Brand Launch",
+        "Brand Loyalty",
+        "Brand Relaunch",
+        "Awareness"
+    ],
+    "Agency": [
+        "Carmichael Lynch",
+        "Deutsch",
+        "FCB",
+        "Huge",
+        "J3",
+        "BPN"
+    ],
+    "Client": [
+        "BMW",
+        "Sony",
+        "Fitbit",
+        "Accenture",
+        "Nationwide",
+        "Spotify",
+        "Cox Communications"
+    ],
+    "mo": [
+        "Lamar",
+        "Outfront",
+        "Clear Channel"
+    ],
+    "addByID": [
+        "126974,126768,126869,415370,415371,abc123xyz",
+        "491059,605580,605579,556417,555336",
+        "419038,419412,421227,421816,421817",
+        "362113,126667,415388,362119,126881,415533"
+    ],
+    "importFromFile": [
+        "proposal_upload_template[Multiple-Clients]_ClearChannel.xlsm",
+        "proposal_upload_Units_[Coca-Cola].xlsm"
+    ],
+    "packUnits": [
+        "package-frames.xlsm",
+        "package-frames_1.xlsm",
+        "Dataset-1-package-frames-template-Clear-channel.xlsm"
+    ],
+    "fileNamesUpload": [
+        "Sample-QA-CSV.csv",
+        "Sample-QA-DOCX.docx",
+        "Sample-QA-DOC.doc",
+        "Sample-QA-JPEG.jpeg",
+        "Sample-QA-JPG.jpg",
+        "Sample-QA-PDF.pdf",
+        "Sample-QA-PNG.png",
+        "Sample-QA-PPTX.pptx",
+        "Sample-QA-PPT.ppt",
+        "Sample-QA-TIF.tif",
+        "Sample-QA-TIFF.tiff",
+        "Sample-QA-XLS.xls",
+        "Sample-QA-XLSX.xlsx"
+    ],
+    "imageName": [
+        "image_1.jpg",
+        "image_2.jpg",
+        "image_3.jpg",
+        "image_4.jpg",
+        "image_5.jpg",
+        "image_1.jpg",
+        "image_2.jpg",
+        "image_3.jpg",
+        "image_4.jpg",
+        "image_5.jpg"
+    ],
+    "mandColumns": [
+        "plantUnitId",
+        "facing",
+        "startDate",
+        "endDate",
+        "cycleType"
+    ],
+    "packMandColumns": [
+        "unitNumber",
+        "startDate",
+        "endDate",
+        "format",
+        "zipCode",
+        "size",
+        "units",
+        "face",
+        "latitude",
+        "longitude"
+    ],
+    "packNonMandColumnsEditable": [
+        "rationale",
+        "poi",
+        "distanceFromPoi",
+        "targetDemoFourWeekImpression",
+        "weeklyNonGeopathMeasurement"
+    ],
+    "packNonMandColumns": [
+        "geopathPanelId",
+        "locationDescription",
+        "rationale",
+        "poi",
+        "distanceFromPoi",
+        "eighteenPlusWeeklyImpressions",
+        "targetDemoFourWeekImpression",
+        "weeklyNonGeopathMeasurement"
+    ],
+    "optColumns": [
+        "rateCard",
+        "netNegotiatedRate",
+        "cycleAmount",
+        "netInstall",
+        "productionPrice"
+    ],
+    "faces": [
+        "S",
+        "E",
+        "WE",
+        "N/A",
+        "NW",
+        "SE",
+        "NW",
+        "N",
+        "NE",
+        "W"
+    ],
+    "validimg": [
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjEiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMSAyMCI+CiAgICA8ZGVmcz4KICAgICAgICA8cGF0aCBpZD0iYiIgZD0iTTEzOCAxOTVoMTAwNHYxOTE5SDEzOHoiLz4KICAgICAgICA8ZmlsdGVyIGlkPSJhIiB3aWR0aD0iMTAxLjQlIiBoZWlnaHQ9IjEwMC43JSIgeD0iLS43JSIgeT0iLS4zJSIgZmlsdGVyVW5pdHM9Im9iamVjdEJvdW5kaW5nQm94Ij4KICAgICAgICAgICAgPGZlT2Zmc2V0IGR5PSIyIiBpbj0iU291cmNlQWxwaGEiIHJlc3VsdD0ic2hhZG93T2Zmc2V0T3V0ZXIxIi8+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBpbj0ic2hhZG93T2Zmc2V0T3V0ZXIxIiByZXN1bHQ9InNoYWRvd0JsdXJPdXRlcjEiIHN0ZERldmlhdGlvbj0iMiIvPgogICAgICAgICAgICA8ZmVDb2xvck1hdHJpeCBpbj0ic2hhZG93Qmx1ck91dGVyMSIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwLjEgMCIvPgogICAgICAgIDwvZmlsdGVyPgogICAgICAgIDxwYXRoIGlkPSJjIiBkPSJNMTM4IDE5NWgxMDA0djEzNzBIMTM4eiIvPgogICAgICAgIDxmaWx0ZXIgaWQ9ImQiIHdpZHRoPSIxMDAuMSUiIGhlaWdodD0iMTAwLjElIiB4PSIwJSIgeT0iMCUiIGZpbHRlclVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCI+CiAgICAgICAgICAgIDxmZU9mZnNldCBkeT0iLTEiIGluPSJTb3VyY2VBbHBoYSIgcmVzdWx0PSJzaGFkb3dPZmZzZXRJbm5lcjEiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIGluPSJzaGFkb3dPZmZzZXRJbm5lcjEiIGluMj0iU291cmNlQWxwaGEiIGsyPSItMSIgazM9IjEiIG9wZXJhdG9yPSJhcml0aG1ldGljIiByZXN1bHQ9InNoYWRvd0lubmVySW5uZXIxIi8+CiAgICAgICAgICAgIDxmZUNvbG9yTWF0cml4IGluPSJzaGFkb3dJbm5lcklubmVyMSIgdmFsdWVzPSIwIDAgMCAwIDAuOTI1NDkwMTk2IDAgMCAwIDAgMC45MjU0OTAxOTYgMCAwIDAgMCAwLjkyNTQ5MDE5NiAwIDAgMCAxIDAiLz4KICAgICAgICA8L2ZpbHRlcj4KICAgICAgICA8cGF0aCBpZD0iZSIgZD0iTTAgMGg5NjR2NjgzSDB6Ii8+CiAgICAgICAgPHBhdGggaWQ9ImciIGQ9Ik0wIDBoOTd2NTBIMHoiLz4KICAgICAgICA8ZmlsdGVyIGlkPSJmIiB3aWR0aD0iMTAxJSIgaGVpZ2h0PSIxMDIlIiB4PSItLjUlIiB5PSItMSUiIGZpbHRlclVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCI+CiAgICAgICAgICAgIDxmZU9mZnNldCBkeT0iLTEiIGluPSJTb3VyY2VBbHBoYSIgcmVzdWx0PSJzaGFkb3dPZmZzZXRJbm5lcjEiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIGluPSJzaGFkb3dPZmZzZXRJbm5lcjEiIGluMj0iU291cmNlQWxwaGEiIGsyPSItMSIgazM9IjEiIG9wZXJhdG9yPSJhcml0aG1ldGljIiByZXN1bHQ9InNoYWRvd0lubmVySW5uZXIxIi8+CiAgICAgICAgICAgIDxmZUNvbG9yTWF0cml4IGluPSJzaGFkb3dJbm5lcklubmVyMSIgdmFsdWVzPSIwIDAgMCAwIDAuODU0OTAxOTYxIDAgMCAwIDAgMC44NTQ5MDE5NjEgMCAwIDAgMCAwLjg1NDkwMTk2MSAwIDAgMCAwLjUgMCIvPgogICAgICAgIDwvZmlsdGVyPgogICAgPC9kZWZzPgogICAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBmaWxsPSIjRjBGMEYwIiBkPSJNLTEwNTctNDk1SDIyM3YyMjQ0aC0xMjgweiIvPgogICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMDU3IC00OTUpIj4KICAgICAgICAgICAgPHVzZSBmaWxsPSIjMDAwIiBmaWx0ZXI9InVybCgjYSkiIHhsaW5rOmhyZWY9IiNiIi8+CiAgICAgICAgICAgIDx1c2UgZmlsbD0iI0ZGRiIgeGxpbms6aHJlZj0iI2IiLz4KICAgICAgICA8L2c+CiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEwNTcgLTQ5NSkiPgogICAgICAgICAgICA8dXNlIGZpbGw9IiNGRkYiIHhsaW5rOmhyZWY9IiNjIi8+CiAgICAgICAgICAgIDx1c2UgZmlsbD0iIzAwMCIgZmlsdGVyPSJ1cmwoI2QpIiB4bGluazpocmVmPSIjYyIvPgogICAgICAgIDwvZz4KICAgICAgICA8cGF0aCBmaWxsPSIjRjdGN0Y3IiBkPSJNLTg5OS0yMjRINjV2Nzk4aC05NjR6Ii8+CiAgICAgICAgPHVzZSBmaWxsPSIjRjdGN0Y3IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODk5IC0xMDkpIiB4bGluazpocmVmPSIjZSIvPgogICAgICAgIDxnPgogICAgICAgICAgICA8dXNlIGZpbGw9IiMwMDAiIGZpbHRlcj0idXJsKCNmKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTMyIC0xNikiIHhsaW5rOmhyZWY9IiNnIi8+CiAgICAgICAgICAgIDxwYXRoIGZpbGw9IiNDQ0MiIGQ9Ik02LjMyOCA3Yy44MyAwIDEuNS0uNjcgMS41LTEuNVM3LjE1OCA0IDYuMzI4IDRzLTEuNS42Ny0xLjUgMS41LjY3IDEuNSAxLjUgMS41em0xMS41LS44MjVsLTMuMDktMi40MjEtNy4wNCA3LjMzOC0zLTIuMDg4TDEuODI4IDEyVjJoMTZ2NC4xNzV6bTAgOC44MjVoLTE2di0uNjAxbDMuMTMtMy4yNDYgMyAyLjA3NEwxNC45MTggNmwyLjkxIDIuMjZWMTV6bTAtMTVoLTE2Yy0xLjEgMC0yIC45LTIgMnYxM2MwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjJjMC0xLjEtLjktMi0yLTJ6Ii8+CiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwLjgyOCAxMCkiPgogICAgICAgICAgICAgICAgPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjUiIGZpbGw9IiM2M0QzMDAiLz4KICAgICAgICAgICAgICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik01LjA4MyA3LjA2OGMtLjQuNC0xLjEuNC0xLjUgMEwyLjI1NyA1Ljc2NWMtLjQtLjQtLjQtMS4xIDAtMS41LjQtLjQgMS4xLS40IDEuNSAwbC41MjYuNjAzIDEuOTYtMS45MzVjLjQtLjQgMS4xLS40IDEuNSAwIC40LjQuNCAxLjEgMCAxLjVsLTIuNjYgMi42MzV6Ii8+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo="
+    ],
+    "inValidimg": [
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjAiIGhlaWdodD0iMTciIHZpZXdCb3g9IjAgMCAyMCAxNyI+CiAgICA8ZGVmcz4KICAgICAgICA8cGF0aCBpZD0iYiIgZD0iTTEzOCAxOTVoMTAwNHYxOTE5SDEzOHoiLz4KICAgICAgICA8ZmlsdGVyIGlkPSJhIiB3aWR0aD0iMTAxLjQlIiBoZWlnaHQ9IjEwMC43JSIgeD0iLS43JSIgeT0iLS4zJSIgZmlsdGVyVW5pdHM9Im9iamVjdEJvdW5kaW5nQm94Ij4KICAgICAgICAgICAgPGZlT2Zmc2V0IGR5PSIyIiBpbj0iU291cmNlQWxwaGEiIHJlc3VsdD0ic2hhZG93T2Zmc2V0T3V0ZXIxIi8+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBpbj0ic2hhZG93T2Zmc2V0T3V0ZXIxIiByZXN1bHQ9InNoYWRvd0JsdXJPdXRlcjEiIHN0ZERldmlhdGlvbj0iMiIvPgogICAgICAgICAgICA8ZmVDb2xvck1hdHJpeCBpbj0ic2hhZG93Qmx1ck91dGVyMSIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwLjEgMCIvPgogICAgICAgIDwvZmlsdGVyPgogICAgICAgIDxwYXRoIGlkPSJjIiBkPSJNMTM4IDE5NWgxMDA0djEzNzBIMTM4eiIvPgogICAgICAgIDxmaWx0ZXIgaWQ9ImQiIHdpZHRoPSIxMDAuMSUiIGhlaWdodD0iMTAwLjElIiB4PSIwJSIgeT0iMCUiIGZpbHRlclVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCI+CiAgICAgICAgICAgIDxmZU9mZnNldCBkeT0iLTEiIGluPSJTb3VyY2VBbHBoYSIgcmVzdWx0PSJzaGFkb3dPZmZzZXRJbm5lcjEiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIGluPSJzaGFkb3dPZmZzZXRJbm5lcjEiIGluMj0iU291cmNlQWxwaGEiIGsyPSItMSIgazM9IjEiIG9wZXJhdG9yPSJhcml0aG1ldGljIiByZXN1bHQ9InNoYWRvd0lubmVySW5uZXIxIi8+CiAgICAgICAgICAgIDxmZUNvbG9yTWF0cml4IGluPSJzaGFkb3dJbm5lcklubmVyMSIgdmFsdWVzPSIwIDAgMCAwIDAuOTI1NDkwMTk2IDAgMCAwIDAgMC45MjU0OTAxOTYgMCAwIDAgMCAwLjkyNTQ5MDE5NiAwIDAgMCAxIDAiLz4KICAgICAgICA8L2ZpbHRlcj4KICAgICAgICA8cGF0aCBpZD0iZSIgZD0iTTAgMGg5NjR2NjgzSDB6Ii8+CiAgICAgICAgPHBhdGggaWQ9ImciIGQ9Ik0wIDBoOTd2NTBIMHoiLz4KICAgICAgICA8ZmlsdGVyIGlkPSJmIiB3aWR0aD0iMTAxJSIgaGVpZ2h0PSIxMDIlIiB4PSItLjUlIiB5PSItMSUiIGZpbHRlclVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCI+CiAgICAgICAgICAgIDxmZU9mZnNldCBkeT0iLTEiIGluPSJTb3VyY2VBbHBoYSIgcmVzdWx0PSJzaGFkb3dPZmZzZXRJbm5lcjEiLz4KICAgICAgICAgICAgPGZlQ29tcG9zaXRlIGluPSJzaGFkb3dPZmZzZXRJbm5lcjEiIGluMj0iU291cmNlQWxwaGEiIGsyPSItMSIgazM9IjEiIG9wZXJhdG9yPSJhcml0aG1ldGljIiByZXN1bHQ9InNoYWRvd0lubmVySW5uZXIxIi8+CiAgICAgICAgICAgIDxmZUNvbG9yTWF0cml4IGluPSJzaGFkb3dJbm5lcklubmVyMSIgdmFsdWVzPSIwIDAgMCAwIDAuODU0OTAxOTYxIDAgMCAwIDAgMC44NTQ5MDE5NjEgMCAwIDAgMCAwLjg1NDkwMTk2MSAwIDAgMCAwLjUgMCIvPgogICAgICAgIDwvZmlsdGVyPgogICAgPC9kZWZzPgogICAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBmaWxsPSIjRjBGMEYwIiBkPSJNLTEwNDYtNDQ1SDIzNHYyMjQ0aC0xMjgweiIvPgogICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMDQ2IC00NDUpIj4KICAgICAgICAgICAgPHVzZSBmaWxsPSIjMDAwIiBmaWx0ZXI9InVybCgjYSkiIHhsaW5rOmhyZWY9IiNiIi8+CiAgICAgICAgICAgIDx1c2UgZmlsbD0iI0ZGRiIgeGxpbms6aHJlZj0iI2IiLz4KICAgICAgICA8L2c+CiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEwNDYgLTQ0NSkiPgogICAgICAgICAgICA8dXNlIGZpbGw9IiNGRkYiIHhsaW5rOmhyZWY9IiNjIi8+CiAgICAgICAgICAgIDx1c2UgZmlsbD0iIzAwMCIgZmlsdGVyPSJ1cmwoI2QpIiB4bGluazpocmVmPSIjYyIvPgogICAgICAgIDwvZz4KICAgICAgICA8cGF0aCBmaWxsPSIjRjdGN0Y3IiBkPSJNLTg4OC0xNzRINzZ2Nzk4aC05NjR6Ii8+CiAgICAgICAgPHVzZSBmaWxsPSIjRjdGN0Y3IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODg4IC01OSkiIHhsaW5rOmhyZWY9IiNlIi8+CiAgICAgICAgPGc+CiAgICAgICAgICAgIDx1c2UgZmlsbD0iIzAwMCIgZmlsdGVyPSJ1cmwoI2YpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjEgLTE2KSIgeGxpbms6aHJlZj0iI2ciLz4KICAgICAgICAgICAgPHBhdGggZmlsbD0iI2M0MTk2MiIgZD0iTTYuNSA3QzcuMzMgNyA4IDYuMzMgOCA1LjVTNy4zMyA0IDYuNSA0IDUgNC42NyA1IDUuNSA1LjY3IDcgNi41IDd6TTE4IDYuMTc1bC0zLjA5LTIuNDIxLTcuMDQgNy4zMzgtMy0yLjA4OEwyIDEyVjJoMTZ2NC4xNzV6TTE4IDE1SDJ2LS42MDFsMy4xMy0zLjI0NiAzIDIuMDc0TDE1LjA5IDYgMTggOC4yNlYxNXptMC0xNUgyQy45IDAgMCAuOSAwIDJ2MTNjMCAxLjEuOSAyIDIgMmgxNmMxLjEgMCAyLS45IDItMlYyYzAtMS4xLS45LTItMi0yeiIvPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg=="
+    ],
+    "mediaType": [
+        "1-Sheet Subway Poster",
+        "Baggage Claim Digital",
+        "Digital Billboards",
+        "Ferry Interior Cards",
+        "Jetbridge Wrap"
+    ],
+    "loopCount": 3,
+    "dupcampaignName": "Test Campaign Name",
+    "testDataPath": "ooh/campaigns/testData/"
+}

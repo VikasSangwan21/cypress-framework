@@ -1,0 +1,15 @@
+{
+    "fileNameUnits": [
+        "Sandbox_Units_Pasadena.xlsx",
+        "Sandbox_Units_Pasadena_1.xlsx",
+        "Sandbox_Units_Pasadena_2.xlsx"
+    ],
+
+    "fileNamePOI": [
+        "Sandbox_POI_Pasadena.xls",
+        "Sandbox_POI_Pasadena_1.xls",
+        "Sandbox_POI_Pasadena_2.xls"
+    ],
+
+    "testDataPath": "ooh/campaigns/testData/"
+}

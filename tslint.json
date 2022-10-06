@@ -1,0 +1,27 @@
+{
+  "extends": "tslint-plugin-cypress",
+  "linterOptions": {
+    "exclude": [
+      "../src/**/*.*",
+      "./cypress/fixtures/**/*.*"
+    ]
+  },
+  "jsRules": {
+    "whitespace": false,
+    "trailing-comma": false,
+    "object-literal-sort-keys": false,
+    "semicolon": [false, "never"],
+    "quotemark": [true, "single"]
+  },
+  "rulesDirectory": [
+    "tslint-no-focused-test"
+  ],
+  "rules": {
+    "whitespace": false,
+    "trailing-comma": false,
+    "object-literal-sort-keys": false,
+    "no-focused-test": true,
+    "semicolon": [false, "never"],
+    "quotemark": [true, "single"]
+  }
+}

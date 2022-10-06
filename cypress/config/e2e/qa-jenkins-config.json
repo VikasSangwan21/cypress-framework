@@ -1,0 +1,25 @@
+{
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "video": false,
+    "chromeWebSecurity": false,
+    "testFiles": [
+      "planner/**/*.spec.ts",
+      "mediaOwner/**/*.spec.ts",
+      "response/*.spec.ts"
+    ],
+    "defaultCommandTimeout": 60000,
+    "integrationFolder": "cypress/test/e2e",
+    "supportFile": "cypress/support/hook_e2e.js",
+    "baseUrl": "https://qa-mie.rapportww.com/ooh/#",
+    "retries": {
+      "runMode": 1,
+      "openMode": 0
+    },
+    "env": {
+      "allure": true,
+      "allureResultsPath": "allure-result/",
+      "apiUrl": "",
+      "tokenUrl": ""
+    }
+}

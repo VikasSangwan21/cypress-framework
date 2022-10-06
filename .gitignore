@@ -1,0 +1,13 @@
+### Ignore for NodeJs
+node_modules
+examples
+
+### Ignore for cypress
+cypress/videos
+cypress/screenshots
+cypress/cucumber-json
+examples
+allure-result
+allure-report
+cypress.env.json
+.nyc_output

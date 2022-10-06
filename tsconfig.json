@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "module": "es6",
+    "target": "es6",
+    "allowJs": true,
+    "strict": true,
+    "noEmit": false,
+    "lib": ["es2017"],
+    "types": [
+      "cypress", 
+      "cypress-file-upload",
+      "node",
+      "@types/testing-library__cypress",
+      "cypress-wait-until"],
+    "baseUrl": ".",
+    "paths": {
+      "@app/*": ["../src/app/*"],
+      "@support/*": ["./cypress/support/*"],
+      "Fixtures/*": ["cypress/fixtures/*"],
+      "Integration/*": ["cypress/integration/*"],
+      "Support/*": ["cypress/support/*"],
+      "Helpers/*": ["cypress/support/helpers/*"],
+      "Mocks/*": ["cypress/support/mocks/*"],
+      "Pages": ["./cypress/support/pages"],
+      "Pages/*": ["cypress/support/pages/*"],
+      "Plugins/*": ["cypress/plugins/*"]
+    }
+  },
+  "typeRoots": ["./node_modules/@types"],
+  "include": [
+    "**/*.*",
+    "cypress/**/*",
+    "./node_modules/@shelex/cypress-allure-plugin/reporter"],
+  "exclude": ["node_modules"]
+}

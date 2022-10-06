@@ -1,0 +1,20 @@
+{
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "testFiles": "**/*.spec.ts",
+  "baseUrl": "https://qa-mie.rapportww.com//#",
+  "waitForAnimations": false,
+  "animationDistanceThreshold": 50,
+  "chromeWebSecurity": false,
+  "video": false,
+  "integrationFolder": "cypress/test/integration",
+  "supportFile": "cypress/support/hook_integration.js",
+  "retries": {
+    "runMode": 1,
+    "openMode": 0
+  },
+  "env": {
+    "allure": true,
+    "allureResultsPath": "allure-result/"
+  }
+}

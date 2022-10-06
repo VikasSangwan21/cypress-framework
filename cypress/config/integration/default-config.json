@@ -1,0 +1,16 @@
+{
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "testFiles": "**/*.spec.ts",
+  "baseUrl": "http://localhost:3000//#",
+  "waitForAnimations": false,
+  "animationDistanceThreshold": 50,
+  "chromeWebSecurity": false,
+  "video": false,
+  "integrationFolder": "cypress/test/integration",
+  "supportFile": "cypress/support/hook_integration.js",
+  "env": {
+    "allure": true,
+    "allureResultsPath": "allure-result/"
+  }
+}

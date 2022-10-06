@@ -1,0 +1,19 @@
+{
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "video": false,
+  "chromeWebSecurity": false,
+  "testFiles": [
+    "planner/**/*.spec.ts",
+    "mediaOwner/**/*.spec.ts",
+    "response/*.spec.ts"
+  ],
+  "defaultCommandTimeout": 120000,
+  "integrationFolder": "cypress/test/e2e",
+  "supportFile": "cypress/support/hook_e2e.js",
+  "baseUrl": "http://localhost:3000/ooh/#",
+  "env": {
+    "allure": true,
+    "allureResultsPath": "allure-result/",
+  }
+}

@@ -1,0 +1,30 @@
+version: '3'
+services:
+  ooh-web-static:
+    restart: always
+    container_name: ooh-web-static
+    volumes:
+      - ../dist:/ooh:ro
+    ports:
+      - "9000:9000"
+    ipc: host
+    command: "npx http-server -p 9000 -s -c0 /ooh"
+  ui-ooh-cypress:
+    container_name: cypress
+    environment:
+      - CYPRESS_baseUrl=http://ooh-web-static:9000/ooh/#
+      - CYPRESS_planner=${PLANNER}
+      - CYPRESS_moClearChannelUS=${MOCCUS}
+      - CYPRESS_moLamarUS=${MOLMUS}
+      - CYPRESS_moOutFrontUS=${MOOFUS}
+      - CYPRESS_moBrandedCitiesUS=${MOBCUS}
+      - CYPRESS_moOrangeBarrelUS=${MOOBUS}
+    depends_on:
+      - ooh-web-static
+    working_dir: /test
+    volumes:
+      - ../src:/src
+      - ../node_modules/:/node_modules
+      - ./:/test
+    # entrypoint: ["/bin/sh", "-c", "yarn ${RUN_SPEC}; chmod 777 ./allure-result"]
+    entrypoint: ["/bin/sh", "-c", "mkdir -p ./allure-result && chmod 777 ./allure-result; yarn ${RUN_SPEC}"]
